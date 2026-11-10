@@ -1,0 +1,966 @@
+model,brand,variant,price_inr,ram_gb,storage_gb,processor,processor_family,cpu_cores,clock_ghz,battery_mah,fast_charge_w,has_fast_charge,screen_inches,res_width,res_height,refresh_rate_hz,notch_type,rear_camera_mp,n_rear_cameras,front_camera_mp,has_5g,has_nfc,has_ir_blaster,has_volte,expandable_storage,is_foldable,os_name,os_version,pixels_mp
+OnePlus 11 5G,OnePlus,standard,54999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,100.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,4.63104
+OnePlus Nord CE 2 Lite 5G,OnePlus,lite,19989.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Samsung Galaxy A14 5G,Samsung,standard,16499.0,4.0,64.0,Exynos 1330,Exynos,8.0,2.4,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,3.0,13.0,1,0,0,1,1,0,Android,13.0,2.60064
+Motorola Moto G62 5G,Motorola,standard,14999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Realme 10 Pro Plus,Realme,pro_plus,24999.0,6.0,128.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,3.0,16.0,1,0,0,1,0,0,Android,13.0,2.60496
+Samsung Galaxy F23 5G (6GB RAM + 128GB),Samsung,pro_plus,16999.0,6.0,128.0,Snapdragon 750G,Snapdragon,8.0,2.2,5000.0,25.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,12.0,2.60064
+Apple iPhone 14,Apple,standard,65999.0,6.0,128.0,Bionic A15,Bionic,6.0,3.22,3279.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,2.96244
+Xiaomi Redmi Note 12 Pro Plus,Xiaomi,pro_plus,29999.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,4980.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,200.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Nothing Phone 1,Nothing,standard,26749.0,8.0,128.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,4500.0,33.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+OnePlus Nord 2T 5G,OnePlus,standard,28999.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,80.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Realme 10 Pro,Realme,pro_plus,18999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.72,1080.0,2400.0,120.0,punch hole,108.0,2.0,16.0,1,0,0,1,1,0,Android,13.0,2.592
+Oppo A78,Oppo,standard,18999.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,33.0,1,6.56,720.0,1612.0,90.0,water drop,50.0,2.0,8.0,1,1,0,1,1,0,Android,12.0,1.16064
+Xiaomi Redmi Note 12 Pro 5G,Xiaomi,pro_plus,24762.0,6.0,128.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Vivo T1 5G (6GB RAM + 128GB),Vivo,pro_plus,16990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Samsung Galaxy S23 Ultra 5G,Samsung,ultra,114990.0,8.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,45.0,1,6.8,1440.0,3088.0,120.0,punch hole,200.0,1.0,12.0,1,1,0,1,0,0,Android,13.0,4.44672
+Apple iPhone 13,Apple,standard,62999.0,4.0,128.0,Bionic A15,Bionic,6.0,3.22,3240.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+Vivo Y16,Vivo,standard,9999.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+OPPO Reno 9 Pro Plus,Oppo,pro_plus,45999.0,16.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4700.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+OnePlus 10R 5G,OnePlus,standard,32999.0,8.0,128.0,Dimensity 8100 Max,Dimensity,8.0,2.85,5000.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Vivo Y22,Vivo,standard,14499.0,4.0,64.0,Helio G70,Helio,8.0,2.0,5000.0,18.0,1,6.55,720.0,1612.0,60.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+OnePlus 11R,OnePlus,standard,39999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,100.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.60496
+Vivo V25 Pro 5G,Vivo,pro_plus,35999.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4830.0,66.0,1,6.56,1080.0,2376.0,120.0,punch hole,64.0,3.0,32.0,1,0,0,1,0,0,Android,12.0,2.56608
+Poco X4 Pro 5G,Poco,pro_plus,14999.0,6.0,64.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 12,Xiaomi,standard,17859.0,4.0,128.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5000.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,13.0,1,0,1,1,1,0,Android,12.0,2.592
+Vivo V26 Pro,Vivo,pro_plus,42990.0,12.0,256.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,4800.0,100.0,1,6.7,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy S20 FE 5G,Samsung,standard,31239.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,4500.0,,1,6.5,1080.0,2400.0,120.0,punch hole,12.0,3.0,32.0,1,1,0,1,1,0,Android,10.0,2.592
+OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),OnePlus,pro_plus,21995.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Apple iPhone 14 Pro Max,Apple,ultra,129990.0,6.0,128.0,Bionic A16,Bionic,6.0,,4323.0,,1,6.7,1290.0,2796.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.60684
+Vivo V25 5G,Vivo,standard,27999.0,8.0,128.0,Dimensity 900,Dimensity,8.0,2.0,4500.0,44.0,1,6.44,1080.0,2408.0,90.0,water drop,64.0,3.0,50.0,1,0,0,1,1,0,Android,12.0,2.60064
+OnePlus 11 Pro,OnePlus,pro_plus,69999.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4500.0,100.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,4.63104
+Realme 10 Pro (8GB RAM + 128GB),Realme,pro_plus,19999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.72,1080.0,2400.0,120.0,punch hole,108.0,2.0,16.0,1,0,0,1,1,0,Android,13.0,2.592
+Poco X5 Pro,Poco,pro_plus,20999.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,2.592
+Vivo V27,Vivo,standard,27990.0,8.0,256.0,Dimensity 930,Dimensity,8.0,2.2,4700.0,67.0,1,6.56,1080.0,2400.0,120.0,punch hole,64.0,3.0,50.0,1,0,0,1,1,0,Android,13.0,2.592
+Apple iPhone 11,Apple,standard,38999.0,4.0,64.0,A13 Bionic,A13,6.0,2.65,3110.0,0.0,0,6.1,828.0,1792.0,60.0,notch,12.0,2.0,12.0,0,1,0,1,0,0,iOS,13.0,1.483776
+Samsung Galaxy M53 5G,Samsung,standard,23790.0,6.0,128.0,Dimensity 900 5G,Dimensity,8.0,2.4,5000.0,25.0,1,6.7,1080.0,2400.0,120.0,punch hole,108.0,1.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy S21 FE 5G,Samsung,standard,39999.0,8.0,128.0,Exynos 2100,Exynos,8.0,2.9,4500.0,25.0,1,6.4,1080.0,2340.0,120.0,punch hole,12.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.5272
+Oppo Reno 8T,Oppo,standard,29990.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,0,1,1,0,Android,13.0,2.592
+Samsung Galaxy S22 Ultra 5G,Samsung,ultra,91999.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,45.0,1,6.8,1440.0,3080.0,120.0,punch hole,108.0,1.0,40.0,1,1,0,1,0,0,Android,12.0,4.4352
+Xiaomi Redmi Note 12 Pro Max 5G,Xiaomi,ultra,32999.0,6.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,5200.0,210.0,1,6.67,1080.0,2460.0,120.0,punch hole,108.0,1.0,32.0,1,0,1,1,1,0,Android,12.0,2.6568
+OPPO Reno 9 5G,Oppo,standard,28499.0,8.0,256.0,Snapdragon 778G,Snapdragon,8.0,2.4,4500.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,64.0,2.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+OnePlus Nord CE 3 5G,OnePlus,standard,21999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.60496
+Xiaomi Redmi Note 11 Pro Plus 5G,Xiaomi,pro_plus,19999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Motorola Edge 20 Fusion 5G,Motorola,standard,18999.0,6.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,5000.0,30.0,1,6.67,1080.0,2400.0,90.0,punch hole,108.0,3.0,32.0,1,1,0,1,1,0,Android,11.0,2.592
+Realme 10 Pro Plus (8GB RAM + 256GB),Realme,pro_plus,27999.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,3.0,16.0,1,0,0,1,0,0,Android,13.0,2.60496
+Vivo Y35,Vivo,standard,18499.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+Samsung Galaxy M33 5G,Samsung,standard,17478.0,6.0,128.0,Exynos 1280,Exynos,8.0,2.4,6000.0,25.0,1,6.6,1080.0,2400.0,120.0,water drop,50.0,1.0,8.0,1,1,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi Note 11,Xiaomi,standard,11936.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme C33,Realme,standard,8950.0,3.0,32.0,Unisoc T612,Unisoc,8.0,1.8,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Vivo Y16 (4GB RAM + 64GB),Vivo,pro_plus,12489.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Samsung Galaxy A74 5G,Samsung,standard,42999.0,8.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,5000.0,33.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.60496
+Samsung Galaxy A14 5G (6GB RAM + 128GB),Samsung,pro_plus,18999.0,6.0,128.0,Exynos 1330,Exynos,8.0,2.4,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,3.0,13.0,1,0,0,1,1,0,Android,13.0,2.60064
+iQOO Neo 7 5G,iQOO,lite,29999.0,8.0,128.0,Dimensity 8200,Dimensity,8.0,3.1,5000.0,120.0,1,6.78,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,2.592
+Jio JioPhone 5G,Jio,standard,11990.0,4.0,32.0,Snapdragon 480+,Snapdragon,8.0,2.2,5000.0,18.0,1,6.5,720.0,1600.0,90.0,none,13.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,1.152
+Motorola Moto G82 5G,Motorola,standard,18999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,30.0,1,6.6,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.592
+Realme 10,Realme,standard,13999.0,4.0,64.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Realme 9i 5G,Realme,standard,14965.0,4.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,18.0,1,6.6,1080.0,2408.0,90.0,punch hole,50.0,3.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Apple iPhone 14 Plus,Apple,pro_plus,74999.0,6.0,128.0,Bionic A15,Bionic,6.0,3.22,4325.0,,1,6.7,1284.0,2778.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,3.566952
+Xiaomi Redmi Note 10S,Xiaomi,standard,10999.0,6.0,64.0,Helio G95,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy S23 Plus,Samsung,pro_plus,84990.0,8.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,45.0,1,6.6,1080.0,2340.0,120.0,punch hole,50.0,3.0,12.0,1,1,0,1,0,0,Android,13.0,2.5272
+Motorola Moto G32,Motorola,standard,10499.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.55,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi Note 13 Pro 5G,Xiaomi,pro_plus,17990.0,6.0,128.0,Dimensity 720,Dimensity,8.0,2.0,5000.0,67.0,1,6.67,1080.0,2460.0,120.0,punch hole,108.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.6568
+Vivo S16,Vivo,standard,29990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4600.0,66.0,1,6.78,1080.0,2400.0,120.0,punch hole,64.0,3.0,50.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy A23,Samsung,standard,18499.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,25.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Vivo Y22 (6GB RAM + 128GB),Vivo,pro_plus,16499.0,6.0,128.0,Helio G70,Helio,8.0,2.0,5000.0,18.0,1,6.55,720.0,1612.0,60.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Poco M4 Pro 5G (6GB RAM + 128GB),Poco,pro_plus,14999.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Vivo S16 Pro,Vivo,pro_plus,35499.0,8.0,256.0,Dimensity 8200,Dimensity,8.0,3.1,4600.0,66.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,50.0,1,1,0,1,0,0,Android,13.0,2.592
+OnePlus 10 Pro 5G,OnePlus,pro_plus,60999.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),Xiaomi,pro_plus,32999.0,12.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,4980.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,200.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Samsung Galaxy F23 5G,Samsung,standard,15999.0,4.0,128.0,Snapdragon 750G,Snapdragon,8.0,2.2,5000.0,25.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,12.0,2.60064
+Oppo Find N Fold,Oppo,standard,99990.0,8.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,67.0,1,7.1,1792.0,1920.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,1,Android,12.0,3.44064
+OPPO A17K,Oppo,standard,9499.0,3.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.56,720.0,1612.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.16064
+Vivo V23 5G (12GB RAM + 256GB),Vivo,pro_plus,27994.0,12.0,256.0,Dimensity 920 5G,Dimensity,8.0,2.5,4200.0,44.0,1,6.44,1080.0,2400.0,90.0,notch,64.0,3.0,50.0,1,0,0,1,1,0,Android,12.0,2.592
+iQOO Z6 Lite 5G,iQOO,lite,13989.0,4.0,64.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+OnePlus 10T,OnePlus,standard,44999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4800.0,150.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),Xiaomi,pro_plus,13999.0,6.0,128.0,Dimensity 700,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,1,1,1,0,Android,11.0,2.592
+Gionee G13 Pro,Gionee,pro_plus,6190.0,4.0,32.0,Tiger T310,Tiger,4.0,2.0,3500.0,0.0,0,6.26,720.0,1600.0,60.0,notch,13.0,1.0,5.0,0,0,0,1,1,0,Other,2.0,1.152
+Apple iPhone 13 Pro,Apple,pro_plus,119900.0,6.0,128.0,Bionic A15,Bionic,6.0,3.22,3095.0,,1,6.1,1170.0,2532.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+OPPO F22 Pro,Oppo,pro_plus,27660.0,8.0,128.0,Snapdragon 6 Gen 1,Snapdragon,8.0,2.2,4800.0,67.0,1,6.58,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,13.0,2.592
+Samsung Galaxy A34 5G,Samsung,standard,24999.0,6.0,128.0,Exynos 1280,Exynos,8.0,,5000.0,33.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,1.0,13.0,1,1,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi 10A (4GB RAM + 64GB),Xiaomi,pro_plus,8388.0,4.0,64.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Motorola Moto G72 4G,Motorola,standard,15999.0,6.0,128.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.55,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy A14 5G (8GB RAM + 128GB),Samsung,pro_plus,20999.0,8.0,128.0,Exynos 1330,Exynos,8.0,2.4,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,3.0,13.0,1,0,0,1,1,0,Android,13.0,2.60064
+Realme 9 5G,Realme,standard,13999.0,4.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Vivo T1 5G (8GB RAM + 128GB),Vivo,pro_plus,19990.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Samsung Galaxy M13 5G,Samsung,standard,13999.0,6.0,128.0,Dimensity 700,Dimensity,8.0,2.2,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,2.0,5.0,1,0,0,1,1,0,Android,12.0,1.152
+Motorola Edge 30 5G,Motorola,standard,22999.0,6.0,128.0,Snapdragon 778G+,Snapdragon,8.0,2.5,4020.0,33.0,1,6.5,1080.0,2400.0,144.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy A23 5G,Samsung,standard,22999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,25.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+OPPO K10 5G,Oppo,standard,16999.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.56,720.0,1612.0,90.0,water drop,48.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.16064
+Xiaomi Redmi Note 11 (6GB RAM + 128GB),Xiaomi,pro_plus,14290.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy A73 5G,Samsung,standard,41999.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,25.0,1,6.7,1080.0,2400.0,120.0,punch hole,108.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Vivo Y21 2021,Vivo,standard,13489.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,18.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+OnePlus Ace Racing Edition 5G,OnePlus,standard,22990.0,8.0,128.0,Dimensity 8100 Max,Dimensity,8.0,2.85,5000.0,,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Motorola Moto G62 (8GB RAM + 128GB),Motorola,pro_plus,16499.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Vivo X90 Pro Plus 5G,Vivo,pro_plus,73999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,80.0,1,6.78,1440.0,3200.0,120.0,punch hole,50.3,1.0,32.0,1,1,1,1,0,0,Android,13.0,4.608
+Realme C33 (4GB RAM + 64GB),Realme,pro_plus,9999.0,4.0,64.0,Unisoc T612,Unisoc,8.0,1.8,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Realme 9i,Realme,standard,12499.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2412.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+OPPO A17,Oppo,standard,12499.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,,1,6.56,720.0,1612.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.16064
+iQOO 11 5G,iQOO,standard,59999.0,8.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,120.0,1,6.78,1440.0,3200.0,144.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,4.608
+Vivo X Fold 5G,Vivo,standard,106990.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4600.0,66.0,1,8.03,1916.0,2160.0,120.0,none,50.0,1.0,16.0,1,1,0,1,0,1,Android,12.0,4.13856
+Vivo T1 5G,Vivo,standard,15990.0,4.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Apple iPhone 14 Pro,Apple,pro_plus,119990.0,6.0,128.0,Bionic A16,Bionic,6.0,,3200.0,,1,6.1,1179.0,2556.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.013524
+Xiaomi Redmi Note 11 Pro Max 5G,Xiaomi,ultra,19999.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5200.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,1.0,32.0,1,0,1,1,1,0,Android,11.0,2.592
+Motorola Moto S30 Pro,Motorola,pro_plus,23990.0,8.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,4400.0,68.0,1,6.55,1080.0,2460.0,144.0,punch hole,50.0,3.0,32.0,1,0,0,1,0,0,Android,12.0,2.6568
+Realme 10s,Realme,standard,12999.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2408.0,90.0,punch hole,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+OPPO F19 Pro Plus 5G,Oppo,pro_plus,19990.0,8.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,4310.0,50.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Xiaomi 13 Pro 5G,Xiaomi,pro_plus,58990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4820.0,120.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.3,3.0,32.0,1,1,1,1,0,0,Android,13.0,4.608
+Vivo V27 Pro,Vivo,pro_plus,43999.0,12.0,256.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,5000.0,120.0,1,6.73,1080.0,2400.0,144.0,punch hole,108.0,3.0,32.0,1,0,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy S22 5G,Samsung,standard,49999.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,3700.0,25.0,1,6.1,1080.0,2340.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,0,Android,12.0,2.5272
+Vivo T1 44W (6GB RAM + 128GB),Vivo,pro_plus,15999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2408.0,60.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+OnePlus 10R 5G (12GB RAM + 256GB),OnePlus,pro_plus,36999.0,12.0,256.0,Dimensity 8100 Max,Dimensity,8.0,2.85,5000.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Tecno Phantom X2,Tecno,standard,39999.0,8.0,256.0,Dimensity 9000,Dimensity,8.0,3.05,5160.0,45.0,1,6.8,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi Redmi K50i 5G,Xiaomi,standard,22999.0,6.0,128.0,Dimensity 8100,Dimensity,8.0,2.85,5080.0,67.0,1,6.6,1080.0,2460.0,144.0,punch hole,64.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.6568
+Samsung Galaxy A53 5G,Samsung,standard,31999.0,6.0,128.0,Exynos 1280,Exynos,8.0,2.4,5000.0,25.0,1,6.5,1080.0,2400.0,120.0,punch hole,64.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi A1,Xiaomi,standard,6171.0,2.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+OPPO Reno8 5G,Oppo,standard,29340.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,80.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy M53 5G (8GB RAM + 128GB),Samsung,pro_plus,25289.0,8.0,128.0,Dimensity 900 5G,Dimensity,8.0,2.4,5000.0,25.0,1,6.7,1080.0,2400.0,120.0,punch hole,108.0,1.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+iQOO Z6 Pro 5G,iQOO,pro_plus,21788.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4700.0,66.0,1,6.44,1080.0,2404.0,90.0,water drop,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.59632
+Tesla Pi Phone,Tesla,standard,69999.0,16.0,512.0,Octa Core Processor,Octa,8.0,,5000.0,120.0,1,6.73,1080.0,2448.0,165.0,none,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.64384
+Samsung Galaxy S23,Samsung,standard,70990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,3900.0,25.0,1,6.1,1080.0,2340.0,120.0,punch hole,50.0,3.0,12.0,1,1,0,1,0,0,Android,13.0,2.5272
+Motorola Edge 30 Pro 5G,Motorola,pro_plus,34999.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4800.0,68.0,1,6.7,1080.0,2400.0,144.0,punch hole,50.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.592
+OnePlus Nord 2T (12GB RAM + 256GB),OnePlus,pro_plus,33900.0,12.0,256.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,80.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Google Pixel 6A,Google,standard,29999.0,6.0,128.0,Google Tensor,Google,8.0,,4410.0,,1,6.14,1080.0,2400.0,60.0,punch hole,12.2,2.0,8.0,1,1,0,1,0,0,Android,12.0,2.592
+Infinix Note 12 Pro 5G,Infinix,pro_plus,18999.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,punch hole,108.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy M33 5G (8GB RAM + 128GB),Samsung,pro_plus,19499.0,8.0,128.0,Exynos 1280,Exynos,8.0,2.4,6000.0,25.0,1,6.6,1080.0,2400.0,120.0,water drop,50.0,1.0,8.0,1,1,0,1,1,0,Android,12.0,2.592
+Vivo V23 5G,Vivo,standard,24994.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,4200.0,44.0,1,6.44,1080.0,2400.0,90.0,notch,64.0,3.0,50.0,1,0,0,1,0,0,Android,12.0,2.592
+Motorola Moto G42,Motorola,standard,10999.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,20.0,1,6.47,1080.0,2400.0,60.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.592
+OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),OnePlus,pro_plus,24999.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Samsung Galaxy A33 5G,Samsung,standard,25999.0,6.0,128.0,Exynos 1280,Exynos,8.0,2.4,5000.0,25.0,1,6.4,1080.0,2400.0,90.0,punch hole,48.0,1.0,13.0,1,1,0,1,1,0,Android,12.0,2.592
+Google Pixel 7A,Google,standard,34990.0,6.0,128.0,Google Tensor,Google,8.0,,4410.0,,1,6.1,1080.0,2400.0,90.0,punch hole,12.2,2.0,8.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi Redmi 11 Prime 5G,Xiaomi,standard,13466.0,4.0,64.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,2.0,5.0,1,0,1,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 10 Lite,Xiaomi,lite,9999.0,4.0,64.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+Motorola Moto E40,Motorola,standard,7999.0,4.0,64.0,Tiger T700,Tiger,8.0,1.8,5000.0,0.0,0,6.5,720.0,1600.0,90.0,punch hole,48.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Nothing Phone 1 (8GB RAM + 256GB),Nothing,pro_plus,28249.0,8.0,256.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,4500.0,33.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Poco X4 Pro 5G (6GB RAM + 128GB),Poco,pro_plus,16499.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),Xiaomi,pro_plus,22999.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Apple iPhone 11 (128GB),Apple,standard,46999.0,4.0,128.0,A13 Bionic,A13,6.0,2.65,3110.0,0.0,0,6.1,828.0,1792.0,60.0,notch,12.0,2.0,12.0,0,1,0,1,0,0,iOS,13.0,1.483776
+Realme C35 (6GB RAM + 128GB),Realme,pro_plus,13999.0,6.0,128.0,Tiger T616,Tiger,8.0,1.8,5000.0,18.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.60064
+OPPO K10,Oppo,standard,13490.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.59,1080.0,2412.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+iQOO Neo 6 5G,iQOO,lite,28999.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4700.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+iQOO Z6 5G,iQOO,standard,15499.0,4.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+OPPO Reno 9 Pro 5G,Oppo,pro_plus,39999.0,16.0,256.0,Dimensity 8100 Max,Dimensity,8.0,2.85,4500.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,2.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+Poco M4 Pro 5G,Poco,pro_plus,12999.0,4.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Jio Phone 3,Jio,standard,4499.0,2.0,64.0,Quad Core,Quad,4.0,1.4,2800.0,0.0,0,5.0,720.0,1280.0,60.0,none,5.0,1.0,2.0,0,0,0,1,1,0,Android,8.0,0.9216
+OnePlus Clover,OnePlus,standard,14999.0,4.0,64.0,Snapdragon 460,Snapdragon,8.0,1.8,6000.0,18.0,1,6.52,720.0,1560.0,60.0,punch hole,13.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.1232
+Samsung Galaxy F04,Samsung,standard,8499.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+iQOO 7,iQOO,standard,24990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4400.0,66.0,1,6.62,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Samsung Galaxy M34 5G,Samsung,standard,16999.0,6.0,128.0,Exynos 1200,Exynos,8.0,2.4,6000.0,25.0,1,6.5,1080.0,2400.0,120.0,punch hole,64.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi 10,Xiaomi,standard,9589.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,6000.0,18.0,1,6.7,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi Note 12 (6GB RAM + 128GB),Xiaomi,pro_plus,19988.0,6.0,128.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5000.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,13.0,1,0,1,1,1,0,Android,12.0,2.592
+Motorola Moto G52,Motorola,standard,11999.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.6,2460.0,1080.0,90.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.6568
+Apple iPhone 15 Pro Max,Apple,ultra,142990.0,8.0,256.0,,Unknown,,,4352.0,25.0,1,6.68,1284.0,2778.0,120.0,punch hole,50.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,3.566952
+Oppo A98,Oppo,standard,30990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,67.0,1,6.7,1080.0,2412.0,120.0,water drop,108.0,2.0,16.0,1,1,0,1,1,0,Android,12.0,2.60496
+Infinix Zero 5G 2023,Infinix,standard,19499.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,33.0,1,6.78,1080.0,2460.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.6568
+Realme C30,Realme,standard,5299.0,2.0,32.0,Tiger T612,Tiger,8.0,1.82,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+OPPO F21 Pro 5G,Oppo,pro_plus,25969.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Realme 11 Pro,Realme,pro_plus,28999.0,6.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,65.0,1,6.4,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+Oppo Find N2 5G,Oppo,standard,94990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4520.0,67.0,1,7.1,1792.0,1920.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,1,Other,,3.44064
+Realme 9 4G,Realme,standard,14999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,108.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Cola Phone,Cola,standard,14999.0,4.0,64.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Apple iPhone 13 Pro Max,Apple,ultra,129900.0,6.0,128.0,Bionic A15,Bionic,6.0,3.22,4352.0,,1,6.7,1284.0,2778.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,3.566952
+Oppo Reno 10 Pro Plus,Oppo,pro_plus,58990.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,80.0,1,6.73,1080.0,2412.0,120.0,punch hole,64.0,1.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+Vivo X90 5G,Vivo,standard,41990.0,8.0,128.0,Dimensity 9200,Dimensity,8.0,3.05,4810.0,120.0,1,6.78,1260.0,2800.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,13.0,3.528
+Samsung Galaxy F13,Samsung,standard,10999.0,4.0,64.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.6,2408.0,1080.0,60.0,water drop,50.0,3.0,8.0,0,1,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 10S (6GB RAM + 128GB),Xiaomi,pro_plus,11999.0,6.0,128.0,Helio G95,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme 10 (8GB RAM + 128GB),Realme,pro_plus,16999.0,8.0,128.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+iQOO 9 SE 5G,iQOO,standard,30990.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,66.0,1,6.62,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Infinix Hot 20,Infinix,standard,17999.0,4.0,64.0,Dimensity 810,Dimensity,8.0,2.4,5000.0,18.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Letv Y1 Pro,Letv,pro_plus,5499.0,4.0,32.0,Tiger T310,Tiger,4.0,2.0,4000.0,0.0,0,6.54,720.0,1560.0,60.0,notch,8.0,1.0,5.0,0,0,0,1,0,0,Android,11.0,1.1232
+Xiaomi Redmi Note 13 Pro Max 5G,Xiaomi,ultra,20499.0,6.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,5200.0,67.0,1,6.67,1080.0,2460.0,120.0,punch hole,108.0,1.0,32.0,1,0,1,1,1,0,Android,12.0,2.6568
+Realme Narzo 50 Pro 5G,Realme,pro_plus,20490.0,6.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+OPPO A74 5G,Oppo,standard,15490.0,6.0,128.0,Snapdragon 480,Snapdragon,8.0,2.0,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,0,1,1,0,Android,11.0,2.592
+Apple iPhone 9,Apple,standard,29990.0,3.0,64.0,A13 Bionic,A13,6.0,2.65,2050.0,,1,4.7,750.0,1334.0,60.0,notch,12.0,1.0,7.0,0,1,0,1,0,0,iOS,13.0,1.0005
+iQOO Z6 Lite (6GB RAM + 128GB),iQOO,pro_plus,15499.0,6.0,128.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 11SE,Xiaomi,standard,11999.0,6.0,64.0,Helio G95,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme Narzo 50,Realme,standard,10999.0,4.0,64.0,Helio G96,Helio,8.0,2.0,5000.0,33.0,1,6.6,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Vivo Y75 5G,Vivo,standard,21990.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Vivo V25 (12GB RAM + 256GB),Vivo,pro_plus,31999.0,12.0,256.0,Dimensity 900,Dimensity,8.0,2.0,4500.0,44.0,1,6.44,1080.0,2408.0,90.0,water drop,64.0,3.0,50.0,1,0,0,1,1,0,Android,12.0,2.60064
+POCO M4 Pro 4G,Poco,pro_plus,11999.0,6.0,64.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Infinix Zero Ultra,Infinix,ultra,36999.0,8.0,256.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,180.0,1,6.8,1080.0,2400.0,120.0,punch hole,200.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+Tecno Spark Go 2023,Tecno,lite,6999.0,3.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.56,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Motorola Moto X40,Motorola,standard,39999.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4600.0,125.0,1,6.7,1080.0,2400.0,165.0,none,50.0,3.0,60.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy F24 5G,Samsung,standard,14999.0,4.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,25.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,12.0,2.60064
+Realme 10 5G,Realme,standard,14499.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,33.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+OnePlus Nord 3 5G,OnePlus,standard,27999.0,8.0,128.0,Dimensity 8200,Dimensity,8.0,3.1,4200.0,120.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Motorola Moto G82 (8GB RAM + 128GB),Motorola,pro_plus,20499.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,30.0,1,6.6,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.592
+iKall Z19 Pro,Ikall,pro_plus,8099.0,4.0,64.0,Quad Core,Quad,4.0,1.6,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+LeEco S1 Pro,Leeco,pro_plus,10999.0,8.0,128.0,Tiger T7150,Tiger,4.0,1.8,5000.0,10.0,1,6.5,720.0,1600.0,60.0,notch,13.0,1.0,5.0,0,0,0,1,0,0,Android,11.0,1.152
+Realme C2s,Realme,standard,3499.0,3.0,32.0,Helio P22,Helio,8.0,2.0,4000.0,0.0,0,6.1,720.0,1560.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,9.0,1.1232
+Duoqin F22 Pro,Duoqin,pro_plus,9990.0,4.0,64.0,Helio G85,Helio,8.0,2.0,2150.0,0.0,0,3.54,640.0,960.0,60.0,none,8.0,1.0,2.0,0,0,0,1,1,0,Android,12.0,0.6144
+Samsung Galaxy M54 5G,Samsung,standard,34999.0,6.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,6000.0,25.0,1,6.67,1080.0,2412.0,90.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.60496
+Nokia N73 5G,Nokia,standard,46999.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,6000.0,65.0,1,6.9,1400.0,3200.0,120.0,punch hole,200.0,1.0,32.0,1,0,0,1,1,0,Android,12.0,4.48
+Motorola Edge 30 Fusion 5G,Motorola,standard,39999.0,8.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,4400.0,68.0,1,6.55,1080.0,2400.0,144.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Realme C35,Realme,standard,11828.0,4.0,64.0,Tiger T616,Tiger,8.0,1.8,5000.0,18.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.60064
+OPPO Reno 8 Pro House of Dragon Edition,Oppo,pro_plus,45999.0,12.0,256.0,Dimensity 8100-Max,Dimensity,8.0,2.85,4500.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.60496
+OnePlus Nord CE 3 Lite 5G,OnePlus,lite,18999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.59,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Poco X4 Pro 5G (8GB RAM + 128GB),Poco,pro_plus,17999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy M04,Samsung,standard,8499.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+OPPO A77s,Oppo,standard,17999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.56,720.0,1600.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Samsung Galaxy A13,Samsung,standard,14450.0,4.0,64.0,Octa Core,Octa,8.0,2.0,5000.0,25.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Motorola Edge 30 Ultra,Motorola,ultra,54999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4610.0,125.0,1,6.67,1080.0,2400.0,144.0,punch hole,200.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi 13 Ultra 5G,Xiaomi,ultra,71999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,120.0,1,6.6,1440.0,3200.0,120.0,punch hole,108.0,1.0,32.0,1,1,1,1,0,0,Android,12.0,4.608
+Motorola Moto G52 (6GB RAM + 128GB),Motorola,pro_plus,12999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.6,2460.0,1080.0,90.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.6568
+Poco M4 5G,Poco,standard,11499.0,4.0,64.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,2.0,8.0,1,0,1,1,1,0,Android,12.0,2.592
+Nothing Phone 1 (12GB RAM + 256GB),Nothing,pro_plus,35999.0,12.0,256.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,4500.0,33.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy A54 5G,Samsung,standard,34999.0,6.0,128.0,Exynos 1380,Exynos,8.0,,5000.0,25.0,1,6.4,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,1,0,Android,13.0,2.592
+Tecno Pova 4,Tecno,standard,11999.0,8.0,128.0,Helio G99,Helio,8.0,2.2,6000.0,18.0,1,6.82,720.0,1600.0,90.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),Xiaomi,pro_plus,27994.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Apple iPhone 14 Pro Max (256GB),Apple,ultra,139990.0,6.0,256.0,Bionic A16,Bionic,6.0,,4323.0,,1,6.7,1290.0,2796.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.60684
+Vivo V25 Pro (12GB RAM + 256GB),Vivo,pro_plus,39999.0,12.0,256.0,Dimensity 1300,Dimensity,8.0,3.0,4830.0,66.0,1,6.56,1080.0,2376.0,120.0,punch hole,64.0,3.0,32.0,1,0,0,1,0,0,Android,12.0,2.56608
+Realme 9 5G (6GB RAM + 128GB),Realme,pro_plus,15499.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Realme 9 Pro 5G,Realme,pro_plus,18999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.6,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Lava Blaze 5G,Lava,standard,10999.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,0.0,0,6.5,1600.0,720.0,90.0,water drop,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.152
+Honor X9a,Honor,standard,27999.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,5100.0,40.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.592
+Google Pixel 7 Pro 5G,Google,pro_plus,81999.0,12.0,128.0,Google Tensor G2,Google,8.0,2.85,5000.0,30.0,1,6.7,1440.0,3120.0,120.0,punch hole,50.0,3.0,10.8,1,1,0,1,0,0,Android,13.0,4.4928
+Tecno Pova 3,Tecno,standard,9999.0,4.0,64.0,Helio G88,Helio,8.0,2.0,7000.0,33.0,1,6.95,1080.0,2460.0,90.0,punch hole,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.6568
+Vivo V23 Pro 5G,Vivo,pro_plus,31994.0,8.0,128.0,Dimensity 1200,Dimensity,8.0,3.0,4300.0,44.0,1,6.56,1080.0,2376.0,90.0,notch,108.0,3.0,50.0,1,0,0,1,0,0,Android,12.0,2.56608
+Samsung Galaxy A04e,Samsung,standard,9299.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi K60,Xiaomi,standard,29990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5500.0,67.0,1,6.67,1440.0,3200.0,120.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,4.608
+Realme 9 Pro Plus 5G,Realme,pro_plus,25900.0,6.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,60.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Realme 9i 5G (6GB RAM + 128GB),Realme,pro_plus,16999.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,18.0,1,6.6,1080.0,2408.0,90.0,punch hole,50.0,3.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Motorola Edge 30 5G (8GB RAM + 128GB),Motorola,pro_plus,24999.0,8.0,128.0,Snapdragon 778G+,Snapdragon,8.0,2.5,4020.0,33.0,1,6.5,1080.0,2400.0,144.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi Redmi Note 11 (6GB RAM + 64GB),Xiaomi,pro_plus,12188.0,6.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Vivo Y02,Vivo,standard,8999.0,3.0,32.0,Helio,Helio,8.0,,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+POCO C31 (4GB RAM + 64GB),Poco,pro_plus,7499.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Realme Narzo 50 5G,Realme,standard,17999.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Realme GT Neo 3T,Realme,lite,24999.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,5000.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+OPPO Reno 8 Pro 5G,Oppo,pro_plus,45999.0,12.0,256.0,Dimensity 8100-Max,Dimensity,8.0,2.85,4500.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.60496
+OnePlus 10 Pro 5G (12GB RAM + 256GB),OnePlus,pro_plus,65499.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+iQOO 11 Pro 5G,iQOO,pro_plus,58990.0,8.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,200.0,1,6.78,1440.0,3200.0,144.0,punch hole,50.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,4.608
+Vivo T1x 4G,Vivo,standard,11999.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi 10 Power,Xiaomi,standard,11999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,6000.0,18.0,1,6.7,720.0,1650.0,60.0,punch hole,50.0,2.0,5.0,0,0,1,1,1,0,Android,11.0,1.188
+OPPO A58,Oppo,standard,18990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,33.0,1,6.56,720.0,1612.0,90.0,water drop,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.16064
+Vivo T1 44W,Vivo,standard,14499.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2408.0,60.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Mix Fold 2 5G,Xiaomi,standard,106990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4500.0,67.0,1,8.02,1914.0,2160.0,120.0,punch hole,50.0,3.0,20.0,1,1,1,1,0,1,Android,12.0,4.13424
+Vivo Y16 (3GB RAM + 64GB),Vivo,pro_plus,10499.0,3.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+OPPO Reno 8 Z,Oppo,standard,26990.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.592
+Vivo Y75 4G,Vivo,standard,19990.0,8.0,128.0,Helio G96,Helio,8.0,2.05,4050.0,44.0,1,6.44,1080.0,2400.0,60.0,water drop,50.0,3.0,44.0,0,0,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi Note 12 Explorer,Xiaomi,standard,24999.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,4300.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,200.0,3.0,16.0,1,1,1,1,1,0,Android,12.0,2.592
+OPPO A57 4G (4GB RAM + 64 GB),Oppo,pro_plus,13969.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,33.0,1,6.56,720.0,1612.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Samsung Galaxy A75 5G,Samsung,standard,44999.0,8.0,128.0,Snapdragon 778G+,Snapdragon,8.0,,5000.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.60496
+Vivo T1 Pro 5G (8GB RAM + 128GB),Vivo,pro_plus,24999.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4700.0,66.0,1,6.44,1080.0,2404.0,90.0,water drop,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.59632
+Google Pixel 7 5G,Google,standard,53100.0,8.0,128.0,Google Tensor G2,Google,8.0,2.85,4355.0,30.0,1,6.3,1080.0,2400.0,90.0,punch hole,50.0,2.0,10.8,1,1,0,1,0,0,Android,13.0,2.592
+Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),Xiaomi,pro_plus,16999.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+OPPO F21s Pro 4G,Oppo,pro_plus,21899.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,4500.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,0,0,0,1,1,0,Android,12.0,2.592
+Apple iPhone 14 (256GB),Apple,standard,75999.0,6.0,256.0,Bionic A15,Bionic,6.0,3.22,3279.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,2.96244
+Motorola Moto G73,Motorola,standard,25999.0,8.0,256.0,Dimensity 930,Dimensity,8.0,2.2,5000.0,30.0,1,6.5,1080.0,2400.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,1,0,Android,13.0,2.592
+Nubia Red Magic 8 Pro 5G,Nubia,pro_plus,46990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,6000.0,80.0,1,6.8,1116.0,2480.0,120.0,none,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.76768
+Motorola Moto G31,Motorola,standard,9999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,20.0,1,6.47,1080.0,2400.0,60.0,punch hole,50.0,3.0,13.0,0,0,0,1,1,0,Android,11.0,2.592
+Tecno Phantom X2 Pro,Tecno,pro_plus,49999.0,12.0,256.0,Dimensity 9000,Dimensity,8.0,3.05,5160.0,45.0,1,6.8,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Infinix Zero 20,Infinix,standard,17999.0,8.0,128.0,Helio G99,Helio,8.0,2.2,4500.0,45.0,1,6.7,1080.0,2400.0,90.0,water drop,108.0,3.0,60.0,0,1,0,1,1,0,Android,12.0,2.592
+iQOO Z6 5G (6GB RAM + 128GB),iQOO,pro_plus,16940.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 11 Pro 5G,Xiaomi,pro_plus,17990.0,6.0,64.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+OPPO A1 Pro,Oppo,pro_plus,20990.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4800.0,67.0,1,6.7,1080.0,2412.0,120.0,punch hole,108.0,2.0,16.0,1,1,0,1,1,0,Android,13.0,2.60496
+Samsung Galaxy S22 FE 5G,Samsung,standard,51999.0,8.0,128.0,Exynos 2300,Exynos,8.0,,4200.0,33.0,1,6.4,1080.0,2400.0,120.0,punch hole,12.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy S22 Plus 5G,Samsung,pro_plus,64449.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4500.0,45.0,1,6.6,1080.0,2340.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,0,Android,12.0,2.5272
+Vivo U3x,Vivo,standard,8990.0,6.0,64.0,Snapdragon 480,Snapdragon,8.0,2.0,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,13.0,2.0,8.0,1,0,0,1,0,0,Android,11.0,2.60064
+Motorola Moto G23,Motorola,standard,19999.0,4.0,128.0,Helio G85,Helio,8.0,2.0,5000.0,30.0,1,6.5,720.0,1600.0,90.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,13.0,1.152
+Poco M4 5G (6GB RAM + 128GB),Poco,pro_plus,13499.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,2.0,8.0,1,0,1,1,1,0,Android,12.0,2.592
+Tecno Pova 5G,Tecno,standard,15499.0,8.0,128.0,Dimensity 900,Dimensity,8.0,2.4,6000.0,18.0,1,6.9,1080.0,2460.0,120.0,punch hole,50.0,2.0,16.0,1,0,0,1,1,0,Android,11.0,2.6568
+POCO C31,Poco,standard,6499.0,3.0,32.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Apple iPhone XR2,Apple,standard,71999.0,4.0,64.0,,Unknown,,,3060.0,,1,6.1,828.0,1792.0,60.0,none,12.0,2.0,7.0,0,1,0,1,0,0,iOS,12.0,1.483776
+Samsung Galaxy A53 (8GB RAM + 256GB),Samsung,pro_plus,36499.0,8.0,256.0,Exynos 1280,Exynos,8.0,2.4,5000.0,25.0,1,6.5,1080.0,2400.0,120.0,punch hole,64.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Infinix Note 12 5G,Infinix,standard,15999.0,6.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,water drop,50.0,2.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+OPPO Reno7 Pro 5G,Oppo,pro_plus,31994.0,12.0,256.0,Dimensity 1200 Max,Dimensity,8.0,3.0,4500.0,65.0,1,6.55,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,1,0,Android,11.0,2.592
+OnePlus Ace 2,OnePlus,standard,34999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,100.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.60496
+Redmi Note 11 Pro 2023,Xiaomi,pro_plus,18999.0,6.0,128.0,Snapdragon 712,Snapdragon,8.0,2.3,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Nothing Phone 2,Nothing,standard,39990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4700.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy A32 (8GB RAM + 128GB),Samsung,pro_plus,16499.0,8.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Google Pixel 6 Pro,Google,pro_plus,54300.0,12.0,128.0,Google Tensor,Google,8.0,2.8,5003.0,30.0,1,6.71,1440.0,3120.0,120.0,punch hole,50.0,3.0,11.1,1,1,0,1,0,0,Android,12.0,4.4928
+Infinix Note 12i (2022),Infinix,standard,9999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,2.592
+Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),Xiaomi,pro_plus,15990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,2.0,5.0,1,0,1,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),Xiaomi,pro_plus,22700.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Xiaomi 12 Pro 5G,Xiaomi,pro_plus,50990.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4600.0,120.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,12.0,4.608
+Apple iPhone 13 Mini,Apple,lite,64900.0,4.0,128.0,Bionic A15,Bionic,6.0,3.22,2438.0,,1,5.4,1080.0,2340.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,15.0,2.5272
+Tecno Pova 3 (6GB RAM + 128GB),Tecno,pro_plus,13799.0,6.0,128.0,Helio G88,Helio,8.0,2.0,7000.0,33.0,1,6.9,1080.0,2460.0,90.0,punch hole,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.6568
+Realme C31 (4GB RAM + 64GB),Realme,pro_plus,8999.0,4.0,64.0,Tiger T612,Tiger,8.0,1.82,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Asus ROG Phone 6 Pro 5G,Asus,pro_plus,89999.0,18.0,512.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,6000.0,65.0,1,6.78,1080.0,2448.0,165.0,none,50.0,3.0,12.0,1,1,0,1,0,0,Android,12.0,2.64384
+Vivo V23e 5G,Vivo,standard,21994.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,4050.0,44.0,1,6.44,1080.0,2400.0,60.0,water drop,50.0,3.0,44.0,1,0,0,1,1,0,Android,12.0,2.592
+Apple iPhone 14 Mini,Apple,lite,69990.0,6.0,128.0,,Unknown,,,3500.0,,1,5.42,1080.0,2340.0,60.0,punch hole,12.0,2.0,12.0,0,1,0,1,0,0,iOS,15.0,2.5272
+Xiaomi Redmi Note 10T 5G,Xiaomi,standard,12999.0,4.0,64.0,Dimensity 700,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,1,1,1,0,Android,11.0,2.592
+iQOO Neo 7 SE 5G,iQOO,lite,24990.0,8.0,128.0,Dimensity 8200,Dimensity,8.0,3.1,5000.0,120.0,1,6.78,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy A23 (8GB RAM + 128GB),Samsung,pro_plus,19990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,25.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),Xiaomi,pro_plus,26999.0,8.0,128.0,Dimensity 1080,Dimensity,8.0,2.6,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Xiaomi Redmi Note 12 Turbo,Xiaomi,standard,19999.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,2.592
+Infinix Note 12 Pro,Infinix,pro_plus,16900.0,8.0,256.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,water drop,108.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Infinix Hot 20 (6GB RAM+ 128GB),Infinix,pro_plus,19999.0,6.0,128.0,Dimensity 810,Dimensity,8.0,2.4,5000.0,18.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Apple iPhone 14 Pro Max (1TB),Apple,ultra,182999.0,6.0,1024.0,Bionic A16,Bionic,6.0,,4323.0,,1,6.7,1290.0,2796.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.60684
+Samsung Galaxy M13,Samsung,standard,12999.0,6.0,128.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.6,1080.0,2400.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,12.0,2.592
+Poco M4 Pro 5G (8GB RAM + 128GB),Poco,pro_plus,15999.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 10S (8GB RAM + 128GB),Xiaomi,pro_plus,13999.0,8.0,128.0,Helio G95,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme C11 2021 (4GB RAM + 64GB),Realme,pro_plus,7749.0,4.0,64.0,SC9863A,SC9863A,8.0,1.6,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A23 5G (8GB RAM + 128GB),Samsung,pro_plus,24999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,25.0,1,6.6,1080.0,2408.0,120.0,water drop,50.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,2.60064
+Motorola Edge 30 Ultra (12GB RAM + 256GB),Motorola,ultra,59999.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4610.0,125.0,1,6.67,1080.0,2400.0,144.0,punch hole,200.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.592
+OPPO F21s Pro,Oppo,pro_plus,25895.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Xiaomi 13 5G,Xiaomi,standard,46990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4500.0,67.0,1,6.36,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,13.0,2.592
+Xiaomi Redmi 10A,Xiaomi,standard,7499.0,3.0,32.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Vivo Y01A,Vivo,standard,7790.0,2.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi K50i (8GB RAM + 256GB),Xiaomi,pro_plus,25999.0,8.0,256.0,Dimensity 8100,Dimensity,8.0,2.85,5080.0,67.0,1,6.6,1080.0,2460.0,144.0,punch hole,64.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.6568
+Realme C30 (3GB RAM + 32GB),Realme,pro_plus,6299.0,3.0,32.0,Tiger T612,Tiger,8.0,1.82,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Motorola Moto G51 5G,Motorola,standard,12999.0,4.0,64.0,Snapdragon 480+,Snapdragon,8.0,2.2,5000.0,0.0,0,6.8,1080.0,2400.0,120.0,punch hole,50.0,3.0,13.0,1,1,0,1,1,0,Android,11.0,2.592
+Xiaomi Redmi 10 (6GB RAM + 128GB),Xiaomi,pro_plus,11999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,6000.0,18.0,1,6.7,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Mi 11 Lite NE 5G,Xiaomi,lite,21890.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4250.0,33.0,1,6.55,1080.0,2400.0,90.0,punch hole,64.0,3.0,20.0,1,1,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy Z Flip 3,Samsung,standard,69999.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,3300.0,15.0,1,6.7,1080.0,2640.0,120.0,punch hole,12.0,2.0,10.0,1,1,0,1,0,1,Other,,2.8512
+OnePlus 10T (16GB RAM + 256GB),OnePlus,pro_plus,55999.0,16.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4800.0,150.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Samsung Galaxy A13 (4GB RAM + 128GB),Samsung,pro_plus,14999.0,4.0,128.0,Octa Core,Octa,8.0,2.0,5000.0,25.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+OPPO Reno7 5G,Oppo,standard,25994.0,8.0,256.0,Dimensity 900,Dimensity,8.0,2.0,4500.0,65.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,1,1,0,1,1,0,Android,11.0,2.592
+OnePlus 9RT 5G,OnePlus,standard,42999.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,,1,6.62,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Samsung Galaxy A53 5G (8GB RAM + 128GB),Samsung,pro_plus,33499.0,8.0,128.0,Exynos 1280,Exynos,8.0,2.4,5000.0,25.0,1,6.5,1080.0,2400.0,120.0,punch hole,64.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),Samsung,ultra,118999.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,45.0,1,6.8,1440.0,3080.0,120.0,punch hole,108.0,1.0,40.0,1,1,0,1,0,0,Android,12.0,4.4352
+Motorola Moto G71 5G,Motorola,standard,16999.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.4,1080.0,2400.0,60.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+itel S16 Pro,Itel,pro_plus,6990.0,2.0,32.0,Quad Core,Quad,4.0,1.3,4000.0,0.0,0,6.6,1600.0,720.0,60.0,punch hole,8.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.152
+Vivo Y100,Vivo,standard,29990.0,8.0,128.0,Dimensity 900,Dimensity,8.0,2.4,5000.0,66.0,1,6.0,1080.0,2400.0,120.0,punch hole,50.0,3.0,50.0,1,0,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy M13 5G (4GB RAM + 64GB),Samsung,pro_plus,12944.0,4.0,64.0,Dimensity 700,Dimensity,8.0,2.2,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,2.0,5.0,1,0,0,1,1,0,Android,12.0,1.152
+POCO X5 GT,Poco,standard,29990.0,8.0,128.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,5000.0,80.0,1,6.7,1080.0,2400.0,144.0,punch hole,64.0,3.0,32.0,1,1,1,1,0,0,Android,13.0,2.592
+Honor X9 5G,Honor,standard,16999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4800.0,66.0,1,6.81,1080.0,2388.0,60.0,none,48.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.57904
+iQOO 11 (16GB RAM + 256GB),iQOO,pro_plus,64999.0,16.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,120.0,1,6.78,1440.0,3200.0,144.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,4.608
+Samsung Galaxy Z Fold 4,Samsung,standard,154998.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4400.0,25.0,1,7.6,1812.0,2176.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,1,Android,12.0,3.942912
+Royole FlexPai 2,Royole,standard,109999.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,4450.0,0.0,0,7.8,1440.0,1920.0,60.0,none,64.0,3.0,32.0,1,0,0,1,1,1,Other,,2.7648
+Apple iPhone 14 Plus (256GB),Apple,pro_plus,84999.0,6.0,256.0,Bionic A15,Bionic,6.0,3.22,4325.0,,1,6.7,1284.0,2778.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,3.566952
+Samsung Galaxy A33 5G (8GB RAM + 128GB),Samsung,pro_plus,27499.0,8.0,128.0,Exynos 1280,Exynos,8.0,2.4,5000.0,25.0,1,6.4,1080.0,2400.0,90.0,punch hole,48.0,1.0,13.0,1,1,0,1,1,0,Android,12.0,2.592
+Tecno Spark 9,Tecno,lite,8999.0,6.0,128.0,Helio G37,Helio,8.0,2.3,5000.0,0.0,0,6.6,720.0,1600.0,90.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Google Pixel 6,Google,standard,40480.0,8.0,128.0,Google Tensor,Google,8.0,2.8,4614.0,30.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,2.0,8.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),Xiaomi,pro_plus,17999.0,6.0,128.0,Snapdragon 732G,Snapdragon,8.0,2.3,5020.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy S21 Ultra,Samsung,ultra,105999.0,12.0,256.0,Exynos 2100,Exynos,8.0,2.9,5000.0,25.0,1,6.8,1440.0,3200.0,120.0,punch hole,108.0,1.0,40.0,1,1,0,1,0,0,Android,10.0,4.608
+Infinix Hot 20 Play,Infinix,lite,8999.0,4.0,64.0,Helio G37,Helio,8.0,2.3,6000.0,18.0,1,6.82,720.0,1640.0,90.0,punch hole,13.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.1808
+Vivo T1x (6GB RAM + 128GB),Vivo,pro_plus,14999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+OPPO F23 Pro,Oppo,pro_plus,19990.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+iQOO Z6 Pro 5G (8GB RAM + 128GB),iQOO,pro_plus,23399.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4700.0,66.0,1,6.44,1080.0,2404.0,90.0,water drop,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.59632
+Samsung Galaxy A73 5G (8GB RAM + 256GB),Samsung,pro_plus,41990.0,8.0,256.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,25.0,1,6.7,1080.0,2400.0,120.0,punch hole,108.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Realme 9 5G SE (8GB RAM + 128GB),Realme,pro_plus,22998.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,30.0,1,6.6,1080.0,2412.0,144.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.60496
+Poco F4 5G,Poco,standard,25999.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,20.0,1,1,0,1,0,0,Android,12.0,2.592
+Infinix Note 12,Infinix,standard,11700.0,4.0,64.0,Helio G88,Helio,8.0,2.0,5000.0,33.0,1,6.7,2400.0,1080.0,60.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy A03 Core,Samsung,standard,6499.0,2.0,32.0,Unisoc SC9836A,Unisoc,4.0,1.6,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Motorola Moto G60,Motorola,standard,15999.0,6.0,128.0,Snapdragon 732G,Snapdragon,8.0,2.3,6000.0,20.0,1,6.78,1080.0,2460.0,120.0,punch hole,108.0,3.0,32.0,0,1,0,1,1,0,Android,11.0,2.6568
+OnePlus 9 Pro,OnePlus,pro_plus,64800.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,65.0,1,6.7,1440.0,3216.0,120.0,punch hole,48.0,1.0,16.0,1,1,0,1,0,0,Android,11.0,4.63104
+Xiaomi Redmi Note 11S,Xiaomi,standard,14590.0,6.0,64.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi 9 Activ,Xiaomi,standard,7499.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Tecno Camon 19 Pro 5G,Tecno,pro_plus,21999.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.8,1080.0,2460.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.6568
+Samsung Galaxy A04,Samsung,standard,11999.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.5,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+POCO M4 Pro 4G (6GB RAM + 128GB),Poco,pro_plus,12999.0,6.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+OnePlus Nord N20 5G,OnePlus,standard,20990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,1,1,0,1,1,0,Android,11.0,2.592
+Apple iPhone 13 (256GB),Apple,standard,72999.0,4.0,256.0,Bionic A15,Bionic,6.0,3.22,3240.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+Oppo Find X6 Pro,Oppo,pro_plus,77990.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,120.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Vivo X90 Pro 5G,Vivo,pro_plus,56999.0,8.0,256.0,Dimensity 9200,Dimensity,8.0,3.05,4870.0,120.0,1,6.78,1260.0,2800.0,120.0,punch hole,50.3,3.0,32.0,1,1,1,1,0,0,Android,13.0,3.528
+Motorola Moto G53,Motorola,standard,21999.0,4.0,128.0,Snapdragon 480+,Snapdragon,8.0,2.2,5000.0,10.0,1,6.5,720.0,1600.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,1,0,Android,13.0,1.152
+Motorola Moto G22,Motorola,standard,9499.0,4.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,20.0,1,6.53,720.0,1600.0,90.0,punch hole,50.0,1.0,16.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi 9i Sport,Xiaomi,standard,7499.0,4.0,64.0,Helio G25,Helio,8.0,2.0,5000.0,10.0,1,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Jio JioPhone Next,Jio,standard,4649.0,2.0,32.0,Qualcomm 215,Qualcomm,4.0,1.3,3500.0,0.0,0,5.45,720.0,1440.0,60.0,none,13.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.0368
+Vivo Y93,Vivo,standard,18000.0,4.0,32.0,Helio P22,Helio,8.0,2.0,4030.0,0.0,0,6.2,1520.0,720.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,8.0,1.0944
+Xiaomi Redmi K60 Pro,Xiaomi,pro_plus,38999.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,120.0,1,6.67,1440.0,3200.0,120.0,punch hole,54.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,4.608
+Realme C30s,Realme,standard,7145.0,2.0,32.0,Unisoc SC9863A,Unisoc,8.0,1.6,5000.0,10.0,1,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Vivo Y22s,Vivo,standard,14990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.55,1612.0,720.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+OPPO A77,Oppo,standard,15499.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,33.0,1,6.56,720.0,1600.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi 10A Sport,Xiaomi,standard,9999.0,6.0,128.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,1,1,1,0,Android,11.0,1.152
+Poco F4 (12GB RAM + 256GB),Poco,pro_plus,29999.0,12.0,256.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,20.0,1,1,0,1,0,0,Android,12.0,2.592
+Realme 9 4G (8GB RAM + 128GB),Realme,pro_plus,15999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,108.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Xiaomi 12T Pro 5G,Xiaomi,pro_plus,59990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,120.0,1,6.67,1220.0,2712.0,120.0,punch hole,200.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,3.30864
+iQOO 9 5G,iQOO,standard,34990.0,8.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,4350.0,120.0,1,6.56,1080.0,2376.0,120.0,punch hole,48.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.56608
+Samsung Galaxy S24 Ultra,Samsung,ultra,119990.0,12.0,256.0,Snapdragon 8+ Gen 2,Snapdragon,8.0,,5100.0,45.0,1,6.83,1200.0,2860.0,144.0,punch hole,200.0,1.0,60.0,1,0,0,1,0,0,Android,13.0,3.432
+OPPO Find N Flip,Oppo,standard,89990.0,8.0,128.0,Dimensity 9000,Dimensity,8.0,3.05,4300.0,44.0,1,6.8,1200.0,2400.0,120.0,punch hole,50.0,2.0,32.0,1,1,0,1,0,1,Other,,2.88
+OnePlus 10T (12GB RAM + 256GB),OnePlus,pro_plus,50999.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4800.0,150.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Tecno Spark 9 (4GB RAM + 64GB),Tecno,pro_plus,7999.0,4.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,0.0,0,6.6,720.0,1600.0,90.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),Samsung,pro_plus,43999.0,8.0,256.0,Exynos 2100,Exynos,8.0,2.9,4500.0,25.0,1,6.4,1080.0,2340.0,120.0,punch hole,12.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.5272
+Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),Xiaomi,pro_plus,18499.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Sony Xperia Pro-I,Sony,pro_plus,134999.0,12.0,512.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,30.0,1,6.5,1644.0,3840.0,120.0,none,12.0,3.0,8.0,1,1,0,1,1,0,Android,11.0,6.31296
+Vivo V21 Pro,Vivo,pro_plus,32999.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4300.0,33.0,1,6.44,1080.0,2400.0,60.0,notch,64.0,1.0,44.0,1,0,0,1,0,0,Android,11.0,2.592
+Poco X3,Poco,standard,13499.0,6.0,64.0,Snapdragon 732G,Snapdragon,8.0,2.3,6000.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,1.0,20.0,0,0,1,1,1,0,Android,10.0,2.592
+Samsung Galaxy S20 FE,Samsung,standard,35489.0,8.0,128.0,Exynos 990,Exynos,8.0,2.73,4500.0,25.0,1,6.5,1080.0,2400.0,120.0,punch hole,12.0,3.0,32.0,0,1,0,1,1,0,Android,10.0,2.592
+Google Pixel 4,Google,standard,20120.0,6.0,64.0,Snapdragon 855,Snapdragon,8.0,2.8,2800.0,,1,5.7,1080.0,2280.0,60.0,none,16.0,2.0,8.0,0,1,0,1,0,0,Android,10.0,2.4624
+Samsung Galaxy S10 Plus,Samsung,pro_plus,42999.0,8.0,128.0,Exynos 9820,Exynos,8.0,2.7,4100.0,15.0,1,6.4,1440.0,3040.0,60.0,punch hole,16.0,3.0,10.0,0,1,0,1,1,0,Android,9.0,4.3776
+Realme 11 Pro Plus,Realme,pro_plus,24999.0,6.0,128.0,Dimensity 930,Dimensity,8.0,2.2,4200.0,66.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+OPPO F21 Pro 4G,Oppo,pro_plus,20999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,4500.0,33.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,0,0,0,1,1,0,Android,12.0,2.592
+Realme GT 2 5G,Realme,standard,28994.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,5000.0,65.0,1,6.62,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy S21,Samsung,standard,48900.0,8.0,128.0,Exynos 2100,Exynos,8.0,2.9,4000.0,25.0,1,6.2,1080.0,2400.0,120.0,punch hole,64.0,3.0,10.0,1,1,0,1,0,0,Android,10.0,2.592
+Samsung Galaxy A71,Samsung,standard,22494.0,8.0,128.0,Snapdragon 730,Snapdragon,8.0,2.2,4500.0,25.0,1,6.7,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,0,0,0,1,1,0,Android,10.0,2.592
+Vivo Y02s,Vivo,standard,8990.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Letv Y2 Pro,Letv,pro_plus,6999.0,4.0,32.0,Unisoc,Unisoc,8.0,,4000.0,0.0,0,6.5,720.0,1560.0,60.0,notch,13.0,1.0,8.0,0,0,0,1,0,0,Android,11.0,1.1232
+Tecno Spark 8C (4GB RAM + 64GB),Tecno,pro_plus,8890.0,4.0,64.0,Unisoc T606,Unisoc,8.0,2.0,5000.0,0.0,0,6.6,720.0,1612.0,90.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.16064
+iQOO Z6 5G (8GB RAM + 128GB),iQOO,pro_plus,18498.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Vivo T1 Pro,Vivo,pro_plus,23999.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4700.0,66.0,1,6.44,1080.0,2404.0,90.0,water drop,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.59632
+Realme 9 Pro Plus 5G (8GB RAM + 128GB),Realme,pro_plus,22994.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,60.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy A04s,Samsung,standard,12990.0,4.0,64.0,Exynos 850,Exynos,8.0,2.0,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,3.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Realme 9i (6GB RAM + 128GB),Realme,pro_plus,14999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2412.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Realme 8 5G (8GB RAM + 128GB),Realme,pro_plus,18499.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+OPPO F19,Oppo,standard,14990.0,6.0,128.0,Snapdragon 662,Snapdragon,8.0,2.0,5000.0,33.0,1,6.4,1080.0,2400.0,60.0,punch hole,48.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+OPPO Find N2 Flip,Oppo,standard,70990.0,8.0,256.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,4300.0,44.0,1,6.8,1080.0,2520.0,120.0,punch hole,50.0,2.0,32.0,1,1,0,1,0,1,Other,,2.7216
+Samsung Galaxy M32 Prime Edition,Samsung,standard,12120.0,4.0,64.0,Helio G80,Helio,8.0,2.0,6000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Oukitel WP19,Oukitel,standard,29990.0,8.0,256.0,Helio G95,Helio,8.0,2.0,21000.0,33.0,1,6.78,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.592
+Realme 9 Pro 5G (8GB RAM + 128GB),Realme,pro_plus,20999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.6,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),Xiaomi,pro_plus,11999.0,6.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+Samsung Galaxy A13 5G,Samsung,standard,17990.0,4.0,64.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,3.0,5.0,1,1,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi Note 11 5G,Xiaomi,standard,14990.0,4.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+itel P36,Itel,standard,6490.0,1.0,16.0,Spreadtrum SC7731E,Spreadtrum,4.0,1.3,5000.0,0.0,0,6.5,1600.0,720.0,60.0,water drop,8.0,2.0,8.0,0,0,0,1,0,0,Android,9.0,1.152
+Realme GT Neo 5,Realme,lite,34999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4600.0,240.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.60496
+Apple iPhone 15 Ultra,Apple,ultra,149900.0,8.0,128.0,Bionic A17,Bionic,8.0,,4700.0,,1,6.73,1290.0,2796.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,17.0,3.60684
+Poco C50,Poco,standard,6499.0,2.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Samsung Galaxy Note 30 Ultra 5G,Samsung,ultra,104999.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4500.0,67.0,1,6.71,1440.0,3214.0,120.0,punch hole,200.0,3.0,10.0,1,1,0,1,1,0,Android,12.0,4.62816
+Realme 9i (4GB RAM + 128GB),Realme,pro_plus,13999.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2412.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Xiaomi Redmi Note 11T 5G,Xiaomi,standard,16999.0,6.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Vivo X80 Pro 5G,Vivo,pro_plus,79999.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4700.0,80.0,1,6.78,1440.0,3200.0,120.0,punch hole,50.0,1.0,32.0,1,1,0,1,0,0,Android,12.0,4.608
+OPPO Reno 6 Pro 5G,Oppo,pro_plus,36760.0,12.0,256.0,Dimensity 1200,Dimensity,8.0,3.0,4500.0,65.0,1,6.55,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Xiaomi Mi 11i 5G,Xiaomi,standard,23499.0,6.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,5160.0,67.0,1,6.67,2400.0,1080.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Asus ROG Phone 7,Asus,standard,75990.0,18.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,6000.0,120.0,1,6.8,1080.0,2448.0,165.0,none,64.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.64384
+Oppo A77 5G,Oppo,standard,21990.0,6.0,128.0,Snapdragon 810,Snapdragon,8.0,2.4,5000.0,33.0,1,6.56,720.0,1600.0,90.0,water drop,48.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.152
+Realme 9 5G SE,Realme,standard,18999.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,30.0,1,6.6,1080.0,2412.0,144.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.60496
+Samsung Galaxy A03,Samsung,standard,7249.0,3.0,32.0,Unisoc T606,Unisoc,8.0,1.6,5000.0,15.0,1,6.5,720.0,1560.0,60.0,water drop,48.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.1232
+OnePlus Nord N200,OnePlus,standard,16990.0,4.0,64.0,Snapdragon 480,Snapdragon,8.0,2.0,5000.0,18.0,1,6.49,1080.0,2400.0,90.0,punch hole,13.0,3.0,16.0,1,1,0,1,1,0,Android,11.0,2.592
+Xiaomi Mi 11X,Xiaomi,standard,23890.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4520.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,20.0,1,0,1,1,0,0,Android,11.0,2.592
+OPPO Reno 6,Oppo,standard,26380.0,8.0,128.0,Dimensity 900,Dimensity,8.0,2.0,4300.0,65.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Realme X50 Pro 5G (12GB RAM + 256GB),Realme,pro_plus,27999.0,12.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,4200.0,65.0,1,6.44,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,1,1,0,1,0,0,Android,10.0,2.592
+Xiaomi Redmi 10A (6GB RAM + 128GB),Xiaomi,pro_plus,10850.0,6.0,128.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Redmi Note 12 Pro Speed Edition,Xiaomi,pro_plus,19999.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,2.592
+Apple iPhone 14 Pro (256GB),Apple,pro_plus,129990.0,6.0,256.0,Bionic A16,Bionic,6.0,,3200.0,,1,6.1,1179.0,2556.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.013524
+Motorola Moto G72,Motorola,standard,19990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.5,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Motorola Moto X30 Pro,Motorola,pro_plus,41990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4450.0,125.0,1,6.67,1080.0,2400.0,144.0,punch hole,200.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi 12S Ultra,Xiaomi,ultra,69990.0,8.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4860.0,67.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,12.0,4.608
+Honor 70 5G,Honor,standard,39990.0,12.0,512.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,4800.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,54.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+OnePlus 10 Pro 5G (12GB RAM + 512GB),OnePlus,pro_plus,74999.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+Vivo V23 Pro 5G (12GB RAM + 256GB),Vivo,pro_plus,36994.0,12.0,256.0,Dimensity 1200,Dimensity,8.0,3.0,4300.0,44.0,1,6.56,1080.0,2376.0,90.0,notch,108.0,3.0,50.0,1,0,0,1,0,0,Android,12.0,2.56608
+OPPO A55 4G (6GB RAM + 128GB),Oppo,pro_plus,14700.0,6.0,128.0,Helio G35,Helio,8.0,2.3,5000.0,18.0,1,6.51,720.0,1600.0,60.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Mi 11T Pro 5G,Xiaomi,pro_plus,34990.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,5000.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,1,1,0,0,Android,11.0,2.592
+Nokia X50 5G,Nokia,standard,34999.0,6.0,64.0,,Unknown,,,6000.0,33.0,1,6.81,1080.0,2400.0,60.0,punch hole,108.0,1.0,32.0,1,0,0,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 10,Xiaomi,standard,13990.0,4.0,64.0,Snapdragon 678,Snapdragon,8.0,2.2,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),Samsung,pro_plus,14859.0,6.0,128.0,Helio G80,Helio,8.0,2.0,6000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Tecno Camon 19 Pro Mondrian Edition,Tecno,pro_plus,17999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.8,1080.0,2460.0,120.0,punch hole,64.0,3.0,32.0,0,1,0,1,1,0,Android,12.0,2.6568
+Poco F5,Poco,standard,34990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4700.0,67.0,1,6.7,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+BLU F91 5G,Blu,standard,14990.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,,1,6.8,1080.0,2460.0,60.0,none,48.0,1.0,16.0,1,1,0,1,1,0,Android,11.0,2.6568
+OPPO A16e,Oppo,standard,8999.0,3.0,32.0,Helio P22,Helio,8.0,2.0,4230.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Motorola Moto E32,Motorola,standard,8999.0,4.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,10.0,1,6.5,720.0,1600.0,90.0,punch hole,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi Note 11S (8GB RAM + 128GB),Xiaomi,pro_plus,15824.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy A52 (8GB RAM + 128GB),Samsung,pro_plus,22494.0,8.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,4500.0,25.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,0,0,0,1,1,0,Android,11.0,2.592
+Poco X3 Pro,Poco,pro_plus,19650.0,6.0,128.0,Snapdragon 860,Snapdragon,8.0,2.96,5160.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,1.0,20.0,0,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi 9A,Xiaomi,standard,6999.0,2.0,32.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Samsung Galaxy A32,Samsung,standard,16499.0,6.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Motorola Moto G13,Motorola,standard,15999.0,4.0,128.0,Helio G85,Helio,8.0,2.0,5000.0,10.0,1,6.5,720.0,1600.0,90.0,punch hole,50.0,3.0,8.0,0,1,0,1,1,0,Android,13.0,1.152
+Asus ROG Phone 6 Batman Edition,Asus,standard,72999.0,16.0,256.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,6000.0,65.0,1,6.78,1080.0,2448.0,165.0,none,50.0,3.0,12.0,1,1,0,1,0,0,Android,12.0,2.64384
+Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),Xiaomi,pro_plus,26999.0,6.0,128.0,Dimensity 1080,Dimensity,8.0,2.6,4980.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,200.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Infinix Smart 6 HD,Infinix,standard,6999.0,2.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,0.0,0,6.6,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Realme C35 (4GB RAM + 128GB),Realme,pro_plus,12787.0,4.0,128.0,Tiger T616,Tiger,8.0,1.8,5000.0,18.0,1,6.6,1080.0,2408.0,90.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.60064
+Infinix Hot 12,Infinix,standard,9999.0,4.0,64.0,Helio G37,Helio,8.0,2.3,6000.0,18.0,1,6.82,720.0,1640.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.1808
+Vivo X80 5G,Vivo,standard,54999.0,8.0,128.0,Dimensity 9000,Dimensity,8.0,3.05,4500.0,80.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,0,0,1,0,0,Android,12.0,2.592
+Vivo Y53s,Vivo,standard,15490.0,8.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,19.0,1,6.58,1080.0,2408.0,60.0,water drop,64.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60064
+Tecno Phantom X,Tecno,standard,25999.0,8.0,256.0,Helio G95,Helio,8.0,2.05,4700.0,33.0,1,6.7,1080.0,2340.0,90.0,punch hole,50.0,3.0,48.0,0,0,0,1,0,0,Android,11.0,2.5272
+Samsung Galaxy M04 (4GB RAM + 128GB),Samsung,pro_plus,9499.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Redmi 12C,Xiaomi,standard,7999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,0.0,0,6.71,720.0,1650.0,60.0,water drop,50.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.188
+Asus ZenFone 9,Asus,standard,63990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4300.0,30.0,1,5.9,1080.0,2400.0,120.0,punch hole,50.0,2.0,12.0,1,1,0,1,0,0,Android,12.0,2.592
+Sony Xperia L5 5G,Sony,standard,15990.0,4.0,64.0,Helio P35,Helio,8.0,2.3,4000.0,,1,6.2,720.0,1680.0,60.0,none,13.0,3.0,8.0,0,1,0,1,1,0,Android,12.0,1.2096
+iQOO 9 SE 5G (12GB RAM + 256GB),iQOO,pro_plus,34949.0,12.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,66.0,1,6.62,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Tecno Spark 8 Pro,Tecno,pro_plus,8799.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,33.0,1,6.8,1080.0,2460.0,60.0,punch hole,48.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,2.6568
+Xiaomi Redmi 10 Prime,Xiaomi,standard,12390.0,4.0,64.0,Helio G88,Helio,8.0,2.0,6000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,50.0,1.0,8.0,0,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy F22,Samsung,standard,11499.0,4.0,64.0,Helio G80,Helio,8.0,2.0,6000.0,0.0,0,6.4,720.0,1600.0,90.0,water drop,48.0,1.0,13.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Mi Mix Alpha,Xiaomi,standard,199990.0,12.0,512.0,Snapdragon 855+,Snapdragon,8.0,2.96,4050.0,40.0,1,7.92,2088.0,2250.0,60.0,none,108.0,3.0,,1,0,0,1,0,0,Android,10.0,4.698
+OPPO Reno 10 Pro,Oppo,pro_plus,42990.0,16.0,256.0,Dimensity 9000,Dimensity,8.0,3.05,5000.0,120.0,1,6.73,1080.0,2412.0,120.0,punch hole,50.0,2.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+Nubia Z50,Nubia,standard,34999.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,80.0,1,6.67,1080.0,2400.0,144.0,punch hole,64.0,2.0,16.0,1,1,0,1,0,0,Android,13.0,2.592
+Samsung Galaxy F13 (4GB RAM + 128GB),Samsung,pro_plus,11999.0,4.0,128.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.6,2408.0,1080.0,60.0,water drop,50.0,3.0,8.0,0,1,0,1,1,0,Android,12.0,2.60064
+Nokia G11 Plus,Nokia,pro_plus,10499.0,4.0,64.0,Unisoc T606,Unisoc,8.0,1.6,5000.0,10.0,1,6.52,720.0,1600.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Infinix Hot 12 Play,Infinix,lite,8910.0,4.0,64.0,Tiger T610,Tiger,8.0,1.82,6000.0,18.0,1,6.82,1640.0,720.0,90.0,punch hole,13.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.1808
+Vivo T2 5G,Vivo,standard,24990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4700.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+OPPO Reno7 Z 5G,Oppo,standard,17999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,3.0,16.0,1,1,0,1,1,0,Android,11.0,2.592
+Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),Xiaomi,pro_plus,22999.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4250.0,33.0,1,6.55,1080.0,2400.0,90.0,punch hole,64.0,3.0,20.0,1,1,1,1,1,0,Android,11.0,2.592
+Realme Narzo 50i,Realme,standard,6490.0,2.0,32.0,Unisoc SC9863A,Unisoc,8.0,1.6,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Infinix Zero X Pro,Infinix,pro_plus,21990.0,8.0,128.0,Helio G95,Helio,8.0,2.05,4500.0,45.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy M32,Samsung,standard,12364.0,4.0,64.0,Helio G80,Helio,8.0,2.0,6000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy A82 5G,Samsung,standard,39990.0,6.0,128.0,Snapdragon 855+,Snapdragon,8.0,2.96,4500.0,25.0,1,6.71,1440.0,3200.0,120.0,punch hole,64.0,3.0,10.0,1,1,0,1,1,0,Android,11.0,4.608
+Xiaomi Poco F1,Xiaomi,standard,11999.0,6.0,64.0,Snapdragon 845,Snapdragon,8.0,2.8,4000.0,,1,6.18,1080.0,2246.0,60.0,notch,12.0,2.0,20.0,0,0,0,1,1,0,Android,8.0,2.42568
+Vivo Y25,Vivo,standard,7499.0,1.0,16.0,Helio MT6580,Helio,4.0,1.3,1900.0,0.0,0,4.5,480.0,854.0,60.0,none,5.0,1.0,2.0,0,0,0,0,1,0,Android,5.0,0.40992
+Lyf Earth 1,Lyf,standard,3990.0,3.0,32.0,Snapdragon 615,Snapdragon,8.0,1.5,3500.0,0.0,0,5.5,1080.0,1920.0,60.0,none,13.0,2.0,5.0,0,0,0,1,1,0,Android,5.0,2.0736
+Motorola Moto E13,Motorola,standard,10499.0,2.0,64.0,Tiger T606,Tiger,8.0,2.0,5000.0,10.0,1,6.5,720.0,1600.0,60.0,punch hole,13.0,1.0,5.0,0,0,0,1,1,0,Android,13.0,1.152
+Tecno Pop 6 Pro,Tecno,pro_plus,6299.0,2.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,0.0,0,6.56,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Itel A24 Pro,Itel,pro_plus,5990.0,2.0,32.0,Unisoc SC9832E,Unisoc,4.0,1.4,3020.0,0.0,0,5.0,854.0,480.0,60.0,none,2.0,1.0,0.3,0,0,0,0,1,0,Android,12.0,0.40992
+Vivo X Fold Plus,Vivo,pro_plus,113990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4730.0,80.0,1,8.03,1916.0,2160.0,120.0,punch hole,50.0,1.0,16.0,1,1,0,1,0,1,Android,12.0,4.13856
+Samsung Galaxy F63,Samsung,standard,21999.0,6.0,128.0,Dimensity 900,Dimensity,8.0,2.0,7000.0,33.0,1,6.7,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+iQOO Z6 4G (6GB RAM + 128GB),iQOO,pro_plus,15999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2400.0,120.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Sony Xperia 5 II,Sony,standard,69990.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,4000.0,21.0,1,6.1,1080.0,2520.0,120.0,none,12.0,3.0,8.0,1,1,0,1,1,0,Android,10.0,2.7216
+Vivo Y3 (4GB RAM + 128GB),Vivo,pro_plus,12990.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.35,720.0,1544.0,60.0,water drop,13.0,3.0,16.0,0,0,0,1,1,0,Android,9.0,1.11168
+Sony Xperia 1 IV (12GB RAM + 512GB),Sony,pro_plus,92980.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,30.0,1,6.5,1644.0,3840.0,120.0,none,12.0,1.0,12.0,1,1,0,1,1,0,Android,12.0,6.31296
+Tecno Pova 4 Pro,Tecno,pro_plus,15999.0,8.0,256.0,Helio G99,Helio,8.0,2.2,6000.0,45.0,1,6.66,720.0,1600.0,90.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Huawei Nova 10 SE,Huawei,standard,23999.0,8.0,256.0,Sanpdragon 680,Sanpdragon,8.0,2.4,4500.0,66.0,1,6.67,1080.0,2160.0,90.0,punch hole,108.0,3.0,16.0,0,1,0,1,1,0,Android,12.0,2.3328
+Vivo T1x (4GB RAM + 128GB),Vivo,pro_plus,12999.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Nubia Red Magic 7S Pro,Nubia,pro_plus,60990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,135.0,1,6.8,1080.0,2400.0,120.0,none,64.0,3.0,8.0,1,1,0,1,0,0,Android,12.0,2.592
+Motorola Moto E32s (4GB RAM + 64GB),Motorola,pro_plus,8859.0,4.0,64.0,Helio G37,Helio,8.0,1.8,5000.0,18.0,1,6.5,720.0,1600.0,90.0,punch hole,16.0,3.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+iQOO Neo 6 5G (12GB RAM + 256GB),iQOO,pro_plus,33749.0,12.0,256.0,Snapdragon 870,Snapdragon,8.0,3.2,4700.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,0,0,Android,12.0,2.592
+Samsung Galaxy A15,Samsung,standard,15990.0,6.0,64.0,Octa Core Processor,Octa,8.0,,5000.0,,1,6.5,720.0,1600.0,60.0,water drop,48.0,3.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+POCO X4 GT 5G,Poco,standard,24990.0,8.0,128.0,Dimensity 8100,Dimensity,8.0,2.85,5080.0,67.0,1,6.6,1080.0,2460.0,144.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.6568
+Realme Narzo 50 5G (4GB RAM + 128GB),Realme,pro_plus,14999.0,4.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Vivo Y77 5G,Vivo,standard,17990.0,6.0,128.0,Dimensity 930,Dimensity,8.0,2.2,4500.0,80.0,1,6.64,1080.0,2388.0,120.0,punch hole,50.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.57904
+Honor 60 SE 5G,Honor,standard,24990.0,8.0,128.0,Dimensity 900,Dimensity,8.0,2.0,4300.0,66.0,1,6.67,1080.0,2340.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,11.0,2.5272
+Xiaomi Redmi 11 Prime,Xiaomi,standard,11600.0,4.0,64.0,Helio G99,Helio,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,3.0,8.0,0,0,1,1,1,0,Android,12.0,2.592
+Realme C31,Realme,standard,8299.0,3.0,32.0,Tiger T612,Tiger,8.0,1.82,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Motorola Moto G31 (6GB RAM+ 128GB),Motorola,pro_plus,11999.0,6.0,128.0,Helio G85,Helio,8.0,2.0,5000.0,20.0,1,6.47,1080.0,2400.0,60.0,punch hole,50.0,3.0,13.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy Z Flip 4 5G,Samsung,standard,89999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,3700.0,25.0,1,6.7,1080.0,2640.0,120.0,punch hole,12.0,2.0,10.0,1,1,0,1,0,1,Other,,2.8512
+OnePlus 6 (8GB RAM + 128GB),OnePlus,pro_plus,27999.0,8.0,128.0,Snapdragon 845,Snapdragon,8.0,2.8,3300.0,0.0,0,6.28,1080.0,2280.0,60.0,none,20.0,2.0,16.0,0,1,0,1,0,0,Android,8.0,2.4624
+Google Pixel 2 XL,Google,standard,15990.0,4.0,128.0,Snapdragon 835,Snapdragon,8.0,2.35,3520.0,,1,6.0,1440.0,2880.0,60.0,none,12.2,1.0,8.0,0,1,0,1,0,0,Android,8.0,4.1472
+Xiaomi Redmi A1 Plus,Xiaomi,pro_plus,7289.0,2.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.52,720.0,1600.0,60.0,water drop,8.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Honor 70 5G (8GB RAM + 256GB),Honor,pro_plus,30990.0,8.0,256.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,4800.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,54.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Realme Narzo 50 (6GB RAM + 128GB),Realme,pro_plus,15499.0,6.0,128.0,Helio G96,Helio,8.0,2.0,5000.0,33.0,1,6.6,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Vivo Y15s,Vivo,standard,8499.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy M32 (6GB RAM + 128GB),Samsung,pro_plus,14490.0,6.0,128.0,Helio G80,Helio,8.0,2.0,6000.0,15.0,1,6.4,1080.0,2400.0,90.0,water drop,64.0,1.0,20.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy F42 5G,Samsung,standard,15490.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,64.0,3.0,8.0,1,0,0,1,1,0,Android,11.0,2.60064
+Realme Q5 5G,Realme,standard,14990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,60.0,1,6.6,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+POCO M3 Pro 5G,Poco,pro_plus,15999.0,4.0,64.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,1,1,1,0,Android,11.0,2.592
+Google Pixel 5,Google,standard,36000.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4080.0,18.0,1,6.0,1080.0,2340.0,90.0,punch hole,16.0,2.0,8.0,1,1,0,1,0,0,Android,11.0,2.5272
+OnePlus 12 Pro,OnePlus,pro_plus,69999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4800.0,150.0,1,6.73,1440.0,3412.0,144.0,punch hole,108.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,4.91328
+Xiaomi Redmi Note 12 Discovery Edition,Xiaomi,standard,26990.0,8.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,4300.0,210.0,1,6.67,1080.0,2400.0,120.0,punch hole,200.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.592
+Samsung Galaxy M13 (4GB RAM + 64GB),Samsung,pro_plus,10630.0,4.0,64.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.6,1080.0,2400.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,12.0,2.592
+Oppo Reno 8 Pro (8GB RAM + 256GB),Oppo,pro_plus,42990.0,8.0,256.0,Dimensity 8100-Max,Dimensity,8.0,2.85,4500.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.60496
+Vivo Y78 5G,Vivo,standard,24990.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,,1,6.58,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+iQOO Z6 4G,iQOO,standard,14489.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2400.0,120.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+OPPO A76,Oppo,standard,16490.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.56,720.0,1612.0,90.0,punch hole,13.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.16064
+Realme 9 Pro Plus 5G (8GB RAM + 256GB),Realme,pro_plus,24494.0,8.0,256.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,60.0,1,6.4,1080.0,2400.0,90.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Vivo Y01,Vivo,standard,7999.0,2.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Motorola Moto Edge S30 5G,Motorola,standard,23990.0,6.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,5000.0,33.0,1,6.8,1080.0,2460.0,144.0,punch hole,108.0,3.0,16.0,1,0,0,1,0,0,Android,11.0,2.6568
+Realme GT 2 Pro 5G,Realme,pro_plus,49959.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,65.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+Apple iPhone 13 Pro (256GB),Apple,pro_plus,129900.0,6.0,256.0,Bionic A15,Bionic,6.0,3.22,3095.0,,1,6.1,1170.0,2532.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+Vivo Y73 2021,Vivo,standard,19990.0,8.0,128.0,Helio G95,Helio,8.0,2.05,4000.0,33.0,1,6.44,1080.0,2400.0,60.0,water drop,64.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy F14,Samsung,standard,14990.0,4.0,64.0,Octa Core Processor,Octa,8.0,,5000.0,25.0,1,6.62,2408.0,1080.0,60.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,13.0,2.60064
+Vivo V20,Vivo,standard,23269.0,8.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,4000.0,33.0,1,6.44,1080.0,2400.0,60.0,water drop,64.0,3.0,44.0,0,0,0,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 9 Pro,Xiaomi,pro_plus,13999.0,4.0,64.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+OnePlus 10R Prime Edition,OnePlus,standard,35389.0,8.0,128.0,Dimensity 8100 Max,Dimensity,8.0,2.85,5000.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Google Pixel 6 Pro (12GB RAM + 256GB),Google,pro_plus,79700.0,12.0,256.0,Google Tensor,Google,8.0,2.8,5003.0,30.0,1,6.71,1440.0,3120.0,120.0,punch hole,50.0,3.0,11.1,1,1,0,1,0,0,Android,12.0,4.4928
+Nokia C31,Nokia,standard,9499.0,3.0,32.0,Unisoc SC9863A,Unisoc,8.0,1.6,5050.0,10.0,1,6.74,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Infinix Hot 12 Pro (8GB RAM+ 128GB),Infinix,pro_plus,12340.0,8.0,128.0,Tiger T616,Tiger,8.0,2.0,5000.0,18.0,1,6.6,720.0,1612.0,90.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Poco M5,Poco,standard,10799.0,4.0,64.0,Helio G99,Helio,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,3.0,8.0,0,0,1,1,1,0,Android,12.0,2.592
+Xiaomi Redmi 10C (4GB RAM + 128GB),Xiaomi,pro_plus,14990.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,6000.0,18.0,1,6.7,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+ZTE Axon 40 Ultra 5G,ZTE,ultra,61990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,65.0,1,6.8,1116.0,2480.0,120.0,none,64.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.76768
+Xiaomi 12 Pro 5G (12GB RAM + 256GB),Xiaomi,pro_plus,51880.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4600.0,120.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,12.0,4.608
+OPPO K10 (8GB RAM + 128GB),Oppo,pro_plus,16990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.59,1080.0,2412.0,90.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Huawei Nova 9 SE,Huawei,standard,19990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,4000.0,66.0,1,6.78,1080.0,2388.0,90.0,punch hole,108.0,1.0,16.0,0,1,0,1,1,0,Android,11.0,2.57904
+Samsung Galaxy S22 5G (8GB RAM + 256GB),Samsung,pro_plus,57999.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,3700.0,25.0,1,6.1,1080.0,2340.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,0,Android,12.0,2.5272
+Lenovo Legion Y90,Lenovo,standard,46990.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5600.0,68.0,1,6.92,1080.0,2460.0,144.0,none,64.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.6568
+Vivo Y55 5G,Vivo,standard,20990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,11.0,2.60064
+Nokia X100 5G,Nokia,standard,17990.0,6.0,128.0,Snapdragon 480,Snapdragon,8.0,2.0,4470.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,1,1,0,1,1,0,Android,11.0,2.592
+Realme 8s 5G (8GB RAM + 128GB),Realme,pro_plus,17499.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Realme 8s 5G,Realme,standard,17999.0,6.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Nokia X60 Pro 5G,Nokia,pro_plus,49990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,6000.0,44.0,1,6.51,1080.0,2408.0,144.0,punch hole,200.0,1.0,32.0,1,0,0,1,1,0,Android,11.0,2.60064
+Poco X5,Poco,standard,14999.0,4.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,8.0,1,0,1,1,0,0,Android,12.0,2.592
+Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),Xiaomi,ultra,19980.0,6.0,128.0,Snapdragon 732G,Snapdragon,8.0,2.3,5020.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+iQOO 7 (12GB RAM + 256GB),iQOO,pro_plus,35990.0,12.0,256.0,Snapdragon 870,Snapdragon,8.0,3.2,4400.0,66.0,1,6.62,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Realme 8,Realme,standard,15999.0,4.0,128.0,Helio G95,Helio,8.0,2.0,5000.0,30.0,1,6.4,1080.0,2400.0,60.0,punch hole,64.0,1.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy S20,Samsung,standard,41999.0,8.0,128.0,Exynos 990,Exynos,8.0,2.73,4000.0,25.0,1,6.2,1440.0,3200.0,120.0,punch hole,64.0,3.0,10.0,0,1,0,1,1,0,Android,10.0,4.608
+Xiaomi Redmi K60E,Xiaomi,standard,25999.0,8.0,128.0,Dimensity 8200,Dimensity,8.0,3.1,5500.0,67.0,1,6.67,1440.0,3200.0,120.0,punch hole,48.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,4.608
+Motorola Moto E32s,Motorola,standard,7990.0,3.0,32.0,Helio G37,Helio,8.0,1.8,5000.0,18.0,1,6.5,720.0,1600.0,90.0,punch hole,16.0,3.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+OnePlus Nord 3T 5G,OnePlus,standard,29990.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,80.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+OPPO F23 Pro Plus 5G,Oppo,pro_plus,27990.0,8.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,4500.0,65.0,1,6.43,1080.0,2460.0,90.0,punch hole,50.0,1.0,16.0,1,0,0,1,1,0,Android,12.0,2.6568
+Poco F5 Pro,Poco,pro_plus,29999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5500.0,67.0,1,6.67,1440.0,3200.0,120.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,4.608
+OPPO A16e (4GB RAM + 64GB),Oppo,pro_plus,8999.0,4.0,64.0,Helio P22,Helio,8.0,2.0,4230.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+POCO M4 Pro 4G (8GB RAM + 128GB),Poco,pro_plus,13999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme Narzo 50A,Realme,standard,11499.0,4.0,64.0,Helio G85,Helio,8.0,2.0,6000.0,18.0,1,6.5,720.0,1600.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Asus ROG Phone 5s 5G,Asus,standard,39999.0,8.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,6000.0,65.0,1,6.78,1080.0,2448.0,144.0,none,64.0,3.0,24.0,1,1,0,1,0,0,Android,11.0,2.64384
+Realme GT Master Edition 5G,Realme,standard,27999.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4300.0,65.0,1,6.43,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Samsung Galaxy A32 5G,Samsung,standard,24499.0,6.0,128.0,Dimensity 720,Dimensity,8.0,2.0,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,48.0,1.0,13.0,1,1,0,1,1,0,Android,11.0,1.152
+Nubia Red Magic 8 Pro Plus,Nubia,pro_plus,60999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,165.0,1,6.8,1116.0,2480.0,120.0,none,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.76768
+Samsung Galaxy Z Fold 3,Samsung,standard,110999.0,12.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,4400.0,25.0,1,7.6,1768.0,2208.0,120.0,punch hole,12.0,3.0,10.0,1,1,0,1,0,1,Android,11.0,3.903744
+LG Wing 5G,LG,standard,54999.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4000.0,,1,6.8,1080.0,2460.0,60.0,none,64.0,3.0,32.0,1,1,0,1,1,0,Other,,2.6568
+Xiaomi Redmi Note 9 Pro Max,Xiaomi,ultra,16490.0,6.0,64.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,33.0,1,6.67,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,0,0,1,1,1,0,Android,10.0,2.592
+Samsung Galaxy A52,Samsung,standard,24990.0,6.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,4500.0,25.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,0,0,0,1,1,0,Android,11.0,2.592
+Vivo Y71,Vivo,standard,25000.0,3.0,16.0,Snapdragon 425,Snapdragon,4.0,1.4,3360.0,0.0,0,6.0,720.0,1440.0,60.0,none,13.0,1.0,5.0,0,0,0,1,1,0,Android,8.0,1.0368
+Samsung Galaxy A04e (3GB RAM + 64GB),Samsung,pro_plus,9950.0,3.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Oppo A56s,Oppo,standard,12999.0,8.0,128.0,Dimensity 810,Dimensity,8.0,2.4,5000.0,0.0,0,6.56,720.0,1612.0,60.0,water drop,13.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.16064
+Oppo Reno 8T 4G,Oppo,standard,19999.0,8.0,256.0,Helio G99,Helio,8.0,2.2,5000.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,0,1,0,1,1,0,Android,13.0,2.592
+OPPO Reno 10,Oppo,standard,32999.0,8.0,256.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,5000.0,120.0,1,6.73,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.60496
+Nokia G60,Nokia,standard,28498.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,20.0,1,6.58,1080.0,2400.0,120.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,12.0,2.592
+OPPO A77 (4GB RAM + 128 GB),Oppo,pro_plus,15998.0,4.0,128.0,Helio G35,Helio,8.0,2.3,5000.0,33.0,1,6.56,720.0,1600.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Motorola Edge 40 Pro 5G,Motorola,pro_plus,59990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4800.0,125.0,1,6.7,1080.0,2460.0,165.0,punch hole,50.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.6568
+Oppo K10x 5G,Oppo,standard,16990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,67.0,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.60496
+iQOO Z6 Pro 5G (12GB RAM + 256GB),iQOO,pro_plus,27999.0,12.0,256.0,Snapdragon 778G,Snapdragon,8.0,2.4,4700.0,66.0,1,6.44,1080.0,2404.0,90.0,water drop,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.59632
+Nokia G21 (6GB RAM + 128GB),Nokia,pro_plus,13499.0,6.0,128.0,Unisoc T606,Unisoc,8.0,1.6,5050.0,18.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A13 (6GB RAM + 128GB),Samsung,pro_plus,16499.0,6.0,128.0,Octa Core,Octa,8.0,2.0,5000.0,25.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+OPPO A16K (4GB RAM + 64GB),Oppo,pro_plus,10999.0,4.0,64.0,Helio G35,Helio,8.0,2.3,4230.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi 10C,Xiaomi,standard,13990.0,4.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,6000.0,18.0,1,6.7,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Tecno Spark 9 Pro,Tecno,pro_plus,9999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,18.0,1,6.6,1080.0,2460.0,90.0,water drop,48.0,3.0,32.0,0,0,0,1,1,0,Android,12.0,2.6568
+Realme GT Neo 3 5G,Realme,lite,31994.0,8.0,128.0,Dimensity 8100,Dimensity,8.0,2.85,5000.0,80.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Xiaomi 11i HyperCharge 5G,Xiaomi,standard,24820.0,6.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,120.0,1,6.67,2400.0,1080.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+iQOO Neo 6 SE 5G,iQOO,lite,22990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4700.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+iQOO 9 Pro 5G,iQOO,pro_plus,59990.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4700.0,120.0,1,6.78,1440.0,3200.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,4.608
+Realme Narzo 50i (4GB RAM + 64GB),Realme,pro_plus,8999.0,4.0,64.0,Unisoc SC9863A,Unisoc,8.0,1.6,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi 9 Activ (6GB RAM + 128GB),Xiaomi,pro_plus,10499.0,6.0,128.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Jio JioPhone Next (3GB RAM + 32GB),Jio,pro_plus,7499.0,3.0,32.0,Qualcomm 215,Qualcomm,4.0,1.3,3000.0,0.0,0,5.5,720.0,1440.0,60.0,none,13.0,1.0,8.0,0,0,0,1,1,0,Android,,1.0368
+Xiaomi Redmi Note 8 2021,Xiaomi,standard,9990.0,4.0,64.0,Helio G85,Helio,8.0,2.0,4000.0,18.0,1,6.3,1080.0,2340.0,60.0,water drop,48.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.5272
+Xiaomi Redmi Note 10 5G,Xiaomi,standard,12490.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,1,1,1,0,Android,11.0,2.592
+Vivo Y20G,Vivo,standard,13990.0,4.0,64.0,Helio G80,Helio,8.0,2.0,5000.0,18.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A22 5G,Samsung,standard,17990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,48.0,3.0,8.0,1,0,0,1,1,0,Android,11.0,2.60064
+Vivo V21,Vivo,standard,24999.0,8.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,4000.0,33.0,1,6.44,1080.0,2400.0,90.0,water drop,64.0,3.0,44.0,0,0,0,1,1,0,Android,11.0,2.592
+Realme 7 Pro (8GB RAM + 128GB),Realme,pro_plus,21999.0,8.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,4500.0,65.0,1,6.4,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,0,0,0,1,1,0,Android,10.0,2.592
+OnePlus Nord Lite,OnePlus,lite,19999.0,8.0,128.0,Snapdragon 690,Snapdragon,8.0,2.0,4300.0,30.0,1,6.55,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,0,0,0,1,0,0,Android,10.0,2.592
+Samsung Galaxy S20 Ultra 5G,Samsung,ultra,99999.0,12.0,128.0,Exynos 990,Exynos,8.0,2.73,5000.0,45.0,1,6.9,1440.0,3200.0,60.0,punch hole,108.0,1.0,40.0,1,1,0,1,1,0,Android,10.0,4.608
+Apple iPhone 11 Pro Max,Apple,ultra,109900.0,4.0,64.0,A13 Bionic,A13,6.0,2.65,3500.0,18.0,1,6.5,1242.0,2688.0,60.0,notch,12.0,3.0,12.0,0,1,0,1,0,0,iOS,13.0,3.338496
+Apple iPhone 7s,Apple,standard,52990.0,3.0,32.0,Fusion APL1024,Fusion,4.0,2.37,2230.0,0.0,0,4.7,750.0,1334.0,60.0,none,13.0,1.0,7.0,0,0,0,1,0,0,iOS,10.0,1.0005
+Sony Xperia Ace IV,Sony,standard,19990.0,8.0,128.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5000.0,33.0,1,6.5,1080.0,2400.0,120.0,none,50.0,2.0,16.0,0,1,0,1,1,0,Android,13.0,2.592
+Samsung Galaxy A04e (4GB RAM + 128GB),Samsung,pro_plus,11499.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi Note 12 4G,Xiaomi,standard,13999.0,4.0,64.0,Helio G99,Helio,8.0,2.2,5000.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,13.0,0,0,1,1,1,0,Android,13.0,2.592
+Oukitel WP21,Oukitel,standard,22990.0,12.0,256.0,Helio G99,Helio,8.0,2.2,9800.0,66.0,1,6.78,1080.0,2400.0,120.0,none,64.0,3.0,,0,0,0,1,1,0,Other,,2.592
+Vivo V28,Vivo,standard,28990.0,8.0,256.0,Snapdragon 6 Gen 1,Snapdragon,8.0,2.2,5000.0,80.0,1,6.7,1080.0,2400.0,120.0,water drop,108.0,3.0,32.0,1,0,0,1,1,0,Android,13.0,2.592
+Poco F4 5G (8GB RAM + 128GB),Poco,pro_plus,27999.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,20.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi Redmi Note 11T Pro 5G,Xiaomi,pro_plus,19990.0,6.0,128.0,Dimensity 8100,Dimensity,8.0,2.85,5080.0,67.0,1,6.6,1080.0,2460.0,144.0,punch hole,64.0,3.0,16.0,1,1,1,1,1,0,Android,12.0,2.6568
+Realme Narzo 50 Pro 5G (8GB RAM + 128GB),Realme,pro_plus,22999.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,5000.0,33.0,1,6.4,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Vivo T1 44W (8GB RAM + 128GB),Vivo,pro_plus,17999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2408.0,60.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi Note 11S (6GB RAM + 128GB),Xiaomi,pro_plus,15499.0,6.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Lava Agni 5G,Lava,standard,17990.0,8.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,30.0,1,6.78,1080.0,2460.0,90.0,punch hole,64.0,1.0,16.0,1,0,0,1,1,0,Android,11.0,2.6568
+Realme 8i (6GB RAM + 128GB),Realme,pro_plus,13999.0,6.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,18.0,1,6.6,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+OPPO A55 4G,Oppo,standard,13499.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,18.0,1,6.51,720.0,1600.0,60.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,1.152
+POCO M3 Pro 5G (6GB RAM + 128GB),Poco,pro_plus,14799.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,8.0,1,0,1,1,1,0,Android,11.0,2.592
+Realme C21Y,Realme,standard,6999.0,3.0,32.0,Unisoc T610,Unisoc,8.0,1.8,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+OPPO A16,Oppo,standard,11999.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Vivo V21 5G,Vivo,standard,23994.0,8.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,4000.0,33.0,1,6.44,1080.0,2400.0,90.0,water drop,64.0,3.0,44.0,1,0,0,1,1,0,Android,11.0,2.592
+Sony Xperia 1 II,Sony,standard,69999.0,8.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,4000.0,21.0,1,6.5,1644.0,3840.0,60.0,none,12.0,1.0,8.0,1,1,0,1,1,0,Android,10.0,6.31296
+Motorola Edge Plus,Motorola,pro_plus,57999.0,12.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,5000.0,18.0,1,6.7,1080.0,2340.0,90.0,punch hole,108.0,3.0,25.0,1,1,0,1,0,0,Android,10.0,2.5272
+Samsung Galaxy Note 20,Samsung,standard,86000.0,8.0,256.0,Exynos 990,Exynos,8.0,2.73,4300.0,25.0,1,6.7,1080.0,2400.0,60.0,punch hole,64.0,3.0,10.0,0,1,0,1,0,0,Android,10.0,2.592
+Samsung Galaxy A12,Samsung,standard,11999.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1560.0,60.0,water drop,48.0,1.0,8.0,0,0,0,1,1,0,Android,10.0,1.1232
+Xiaomi Redmi Note 12 Pro 4G,Xiaomi,pro_plus,14999.0,6.0,128.0,Snapdragon 732G,Snapdragon,8.0,2.3,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,0,1,1,1,0,0,Android,12.0,2.592
+Realme GT Neo 3T (8GB RAM + 128GB),Realme,pro_plus,26499.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,5000.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Realme C30s (4GB RAM + 64GB),Realme,pro_plus,8990.0,4.0,64.0,Unisoc SC9863A,Unisoc,8.0,1.6,5000.0,10.0,1,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Apple iPhone 14 (512GB),Apple,standard,95999.0,6.0,512.0,Bionic A15,Bionic,6.0,3.22,3279.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,2.96244
+iQOO 9T 5G,iQOO,standard,47990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4700.0,120.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.592
+Tecno Camon 19 Pro,Tecno,pro_plus,17990.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.8,1080.0,2460.0,120.0,punch hole,64.0,3.0,32.0,0,0,0,1,0,0,Android,12.0,2.6568
+OnePlus Nord 2 Lite 5G,OnePlus,lite,22999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.59,1080.0,2412.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.60496
+Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),Samsung,ultra,99990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,45.0,1,6.8,1440.0,3080.0,120.0,punch hole,108.0,1.0,40.0,1,1,0,1,0,0,Android,12.0,4.4352
+POCO F4 GT 5G,Poco,standard,39999.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4700.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,2.592
+Xiaomi 11T Pro 5G (12GB RAM + 256GB),Xiaomi,pro_plus,38999.0,12.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,5000.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,1,1,1,1,0,0,Android,11.0,2.592
+Vivo Y10,Vivo,standard,12490.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,0,0,Android,11.0,1.152
+Samsung Galaxy A83 5G,Samsung,standard,39990.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,25.0,1,6.71,1440.0,3200.0,120.0,punch hole,64.0,3.0,10.0,1,1,0,1,1,0,Android,11.0,4.608
+Vivo Y33s,Vivo,standard,16685.0,8.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,18.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60064
+Huawei Mate 40 Pro 4G,Huawei,pro_plus,69990.0,8.0,128.0,Kirin 9000,Kirin,8.0,3.13,4400.0,66.0,1,6.76,1344.0,2772.0,90.0,punch hole,50.0,3.0,13.0,0,1,1,1,1,0,Other,2.0,3.725568
+Micromax IN 2B,Micromax,standard,6999.0,4.0,64.0,Unisoc T610,Unisoc,8.0,1.8,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Asus ROG Phone 6,Asus,standard,71999.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,6000.0,65.0,1,6.78,1080.0,2448.0,165.0,none,50.0,3.0,12.0,1,1,0,1,0,0,Android,12.0,2.64384
+Realme X7 Max,Realme,ultra,26999.0,8.0,128.0,Dimensity 1200,Dimensity,8.0,3.0,4500.0,50.0,1,6.43,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Realme 8 5G,Realme,standard,16499.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+OPPO A55 5G,Oppo,standard,17990.0,6.0,128.0,Dimensity 700,Dimensity,8.0,2.2,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,1,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi 9,Xiaomi,standard,8999.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Apple iPhone SE 2020,Apple,standard,39900.0,3.0,64.0,A13 Bionic,A13,6.0,2.65,1821.0,18.0,1,4.7,750.0,1334.0,60.0,none,12.0,1.0,7.0,0,1,0,1,0,0,iOS,13.0,1.0005
+Letv Y1 Pro Plus,Letv,pro_plus,5999.0,6.0,64.0,Tiger T610,Tiger,4.0,1.8,4000.0,10.0,1,6.5,720.0,1560.0,60.0,notch,8.0,1.0,5.0,0,0,0,1,0,0,Android,11.0,1.1232
+OnePlus Nord 5,OnePlus,standard,34999.0,8.0,128.0,Dimensity 9200,Dimensity,8.0,,5000.0,120.0,1,6.57,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Vivo Y73T,Vivo,standard,16990.0,8.0,128.0,Dimensity 700,Dimensity,8.0,2.0,6000.0,44.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,2.0,8.0,1,0,0,1,0,0,Android,11.0,2.60064
+OPPO Reno 9 Z,Oppo,standard,22990.0,8.0,128.0,Snapdragon 6 Gen 1,Snapdragon,8.0,2.2,4800.0,33.0,1,6.58,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,1,0,Android,13.0,2.592
+Vivo V25e,Vivo,standard,19990.0,8.0,256.0,Helio G99,Helio,8.0,2.2,4500.0,44.0,1,6.44,1080.0,2400.0,90.0,punch hole,64.0,3.0,32.0,0,0,0,1,1,0,Android,12.0,2.592
+Infinix Hot 12 Pro,Infinix,pro_plus,10850.0,6.0,64.0,Tiger T616,Tiger,8.0,2.0,5000.0,18.0,1,6.6,720.0,1612.0,90.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Realme Narzo 50 5G (4GB RAM + 64GB),Realme,pro_plus,13499.0,4.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.6,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+itel Vision 3,Itel,standard,6699.0,3.0,64.0,Unisoc SC9863a,Unisoc,8.0,1.6,5000.0,18.0,1,6.6,1612.0,720.0,60.0,water drop,8.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.16064
+OPPO A96 4G,Oppo,standard,17999.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,33.0,1,6.59,1080.0,2412.0,90.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+Xiaomi Redmi Note 11E 5G,Xiaomi,standard,13990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,punch hole,50.0,2.0,5.0,1,0,1,1,0,0,Android,11.0,2.60064
+Honor Magic 4 Pro Plus 5G,Honor,pro_plus,94990.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4600.0,120.0,1,6.76,1344.0,2772.0,120.0,punch hole,50.0,1.0,13.0,1,1,0,1,0,0,Android,12.0,3.725568
+Tecno Spark 9T,Tecno,lite,8968.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,18.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,2.60064
+Infinix Smart 6,Infinix,standard,7320.0,2.0,64.0,Helio A22,Helio,4.0,2.0,5000.0,0.0,0,6.6,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Realme C25Y (4GB RAM + 64GB),Realme,pro_plus,8999.0,4.0,64.0,Tiger T610,Tiger,8.0,1.8,5000.0,18.0,1,6.5,1600.0,720.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A12 (6GB RAM + 128GB),Samsung,pro_plus,13999.0,6.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1560.0,60.0,water drop,48.0,1.0,8.0,0,0,0,1,1,0,Android,10.0,1.1232
+Tecno Camon 19,Tecno,standard,14746.0,6.0,128.0,Helio G85,Helio,8.0,2.0,5000.0,18.0,1,6.8,1080.0,2460.0,60.0,punch hole,64.0,2.0,16.0,0,1,0,1,1,0,Android,12.0,2.6568
+Xiaomi Redmi Note 10 Pro 5G,Xiaomi,pro_plus,16999.0,6.0,128.0,Dimensity 1100 5G,Dimensity,8.0,2.6,5000.0,67.0,1,6.6,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,1,1,1,0,Android,11.0,2.592
+Xiaomi Mi 11X 5G (8GB RAM + 128GB),Xiaomi,pro_plus,25990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4520.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,48.0,3.0,20.0,1,0,1,1,0,0,Android,11.0,2.592
+Xiaomi Redmi Note 10 (6GB RAM + 128GB),Xiaomi,pro_plus,16499.0,6.0,128.0,Snapdragon 678,Snapdragon,8.0,2.2,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,1.0,13.0,0,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Redmi Note 10 Pro Max,Xiaomi,ultra,19999.0,6.0,64.0,Snapdragon 732G,Snapdragon,8.0,2.3,5020.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Xiaomi Mi 10T 5G,Xiaomi,standard,23500.0,6.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,5000.0,33.0,1,6.67,2400.0,1080.0,144.0,punch hole,64.0,3.0,20.0,1,1,0,1,0,0,Android,10.0,2.592
+LG Velvet 5G,LG,standard,54999.0,6.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4300.0,25.0,1,6.8,1080.0,2460.0,60.0,water drop,48.0,3.0,16.0,1,1,0,1,1,0,Android,10.0,2.6568
+Motorola One Fusion Plus,Motorola,pro_plus,19499.0,6.0,128.0,Snapdragon 730G,Snapdragon,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2340.0,60.0,none,64.0,1.0,16.0,0,0,0,1,1,0,Android,10.0,2.5272
+LG V60 ThinQ,LG,standard,79990.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,5000.0,,1,6.8,1080.0,2460.0,60.0,punch hole,64.0,3.0,10.0,1,1,0,1,1,0,Other,,2.6568
+Samsung Galaxy Note 10 Lite,Samsung,lite,39999.0,6.0,128.0,Exynos 9810,Exynos,8.0,2.7,4500.0,25.0,1,6.7,1080.0,2400.0,60.0,punch hole,12.0,3.0,32.0,0,1,0,1,1,0,Android,10.0,2.592
+Samsung Galaxy Note 10 Plus 5G,Samsung,pro_plus,92999.0,12.0,256.0,Exynos 9825,Exynos,8.0,2.7,4300.0,,1,6.8,1440.0,3040.0,60.0,punch hole,12.0,1.0,10.0,1,1,1,1,1,0,Android,9.0,4.3776
+iQOO Neo 7 Racing Edition,iQOO,lite,32990.0,8.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,120.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,1,1,1,0,0,Android,13.0,2.592
+Samsung Galaxy A04s (4GB RAM + 128GB),Samsung,pro_plus,14499.0,4.0,128.0,Exynos 850,Exynos,8.0,2.0,5000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,3.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Vivo Y35 5G,Vivo,standard,13999.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,15.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,1,0,0,1,1,0,Android,13.0,1.152
+Vivo Y02 (2GB RAM + 32GB),Vivo,pro_plus,7999.0,2.0,32.0,Helio,Helio,8.0,,5000.0,10.0,1,6.51,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+itel Vision 3 (2GB RAM + 32GB),Itel,pro_plus,5785.0,2.0,32.0,Unisoc SC9863a,Unisoc,8.0,1.6,5000.0,18.0,1,6.6,1612.0,720.0,60.0,water drop,8.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.16064
+Xiaomi Redmi Note 11R,Xiaomi,standard,12990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,13.0,2.0,5.0,1,0,1,1,1,0,Android,12.0,2.592
+Poco M6 Pro,Poco,pro_plus,19990.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,5100.0,120.0,1,6.73,1080.0,2400.0,120.0,punch hole,108.0,3.0,32.0,1,0,1,1,1,0,Android,13.0,2.592
+OPPO A97 5G,Oppo,standard,23990.0,12.0,256.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.56,1080.0,2400.0,90.0,water drop,48.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy A24,Samsung,standard,17999.0,6.0,64.0,Exynos 7904,Exynos,8.0,1.8,4000.0,15.0,1,6.4,1080.0,2408.0,60.0,water drop,48.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+Infinix Note 13 Pro,Infinix,pro_plus,16999.0,6.0,128.0,Helio G99,Helio,8.0,2.2,5000.0,120.0,1,6.91,1080.0,2460.0,60.0,punch hole,108.0,1.0,16.0,0,0,0,1,1,0,Android,12.0,2.6568
+Honor Play 30,Honor,lite,9999.0,4.0,128.0,Snapdragon 480+,Snapdragon,8.0,2.2,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,1,0,0,1,1,0,Android,11.0,1.152
+Infinix Smart 6 Plus,Infinix,pro_plus,8299.0,3.0,64.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.82,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Sony Xperia 5 IV 5G,Sony,standard,82199.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,30.0,1,6.1,1080.0,2520.0,120.0,none,12.0,3.0,12.0,1,1,0,1,1,0,Android,12.0,2.7216
+Nubia Z40 Pro 5G,Nubia,pro_plus,49990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,6.67,1080.0,2400.0,144.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Nokia G21,Nokia,standard,11999.0,4.0,64.0,Unisoc T606,Unisoc,8.0,1.6,5050.0,18.0,1,6.5,720.0,1600.0,90.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi 12 Lite 5G,Xiaomi,lite,29990.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4300.0,67.0,1,6.55,1080.0,2400.0,120.0,punch hole,108.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Oppo Find N 5G,Oppo,standard,92249.0,8.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,33.0,1,7.1,1792.0,1920.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,1,Android,11.0,3.44064
+Apple iPhone 13 Pro Max (256GB),Apple,ultra,139900.0,6.0,256.0,Bionic A15,Bionic,6.0,3.22,4352.0,,1,6.7,1284.0,2778.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,3.566952
+Vivo Y21s,Vivo,standard,14990.0,4.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,18.0,1,6.51,720.0,1600.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+OPPO F19s,Oppo,standard,15988.0,6.0,128.0,Snapdragon 662,Snapdragon,8.0,2.0,5000.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy M21 2021,Samsung,standard,11725.0,4.0,64.0,Exynos 9611,Exynos,8.0,2.3,6000.0,15.0,1,6.4,1080.0,2340.0,60.0,water drop,48.0,3.0,20.0,0,0,0,1,1,0,Android,11.0,2.5272
+OPPO F19 Pro,Oppo,pro_plus,17994.0,8.0,128.0,Helio P95,Helio,8.0,2.2,4310.0,30.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+OPPO X 2021,Oppo,standard,134999.0,8.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,4000.0,45.0,1,7.4,1440.0,3200.0,60.0,none,64.0,3.0,16.0,0,0,0,1,0,0,Android,11.0,4.608
+OnePlus Nord N10,OnePlus,standard,25595.0,6.0,128.0,Snapdragon 690,Snapdragon,8.0,2.0,4300.0,30.0,1,6.49,1080.0,2400.0,90.0,punch hole,64.0,1.0,16.0,1,1,0,1,1,0,Android,10.0,2.592
+Gionee M12 Pro,Gionee,pro_plus,7499.0,6.0,128.0,Helio P60,Helio,8.0,1.99,4000.0,0.0,0,6.2,720.0,1520.0,60.0,water drop,16.0,1.0,13.0,0,0,0,0,1,0,Android,10.0,1.0944
+Poco M2,Poco,standard,10890.0,6.0,64.0,Helio G80,Helio,8.0,2.0,5000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,13.0,1.0,8.0,0,0,1,1,1,0,Android,10.0,2.5272
+OPPO F17 Pro,Oppo,pro_plus,18990.0,8.0,128.0,Helio P95,Helio,8.0,2.2,4015.0,30.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,0,1,1,0,Android,10.0,2.592
+Motorola Moto G 5G,Motorola,standard,19990.0,6.0,128.0,Snapdragon 750G,Snapdragon,8.0,2.2,5000.0,20.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,3.0,16.0,1,1,0,1,1,0,Android,10.0,2.592
+Samsung Galaxy A50s,Samsung,standard,15990.0,4.0,128.0,Exynos 9611,Exynos,8.0,2.3,4000.0,15.0,1,6.4,1080.0,2340.0,60.0,water drop,48.0,3.0,32.0,0,1,0,1,1,0,Android,9.0,2.5272
+Samsung Galaxy Note 10 Plus,Samsung,pro_plus,58999.0,12.0,256.0,Exynos 9825,Exynos,8.0,2.73,4300.0,45.0,1,6.8,1440.0,3040.0,60.0,punch hole,12.0,1.0,10.0,0,1,0,1,1,0,Android,9.0,4.3776
+Vivo Y15,Vivo,standard,12500.0,4.0,64.0,Helio P22,Helio,8.0,2.0,5000.0,0.0,0,6.35,720.0,1544.0,60.0,water drop,13.0,3.0,16.0,0,0,0,1,1,0,Android,9.0,1.11168
+Vivo S1 Pro,Vivo,pro_plus,29999.0,8.0,128.0,Snapdragon 665,Snapdragon,8.0,2.0,4500.0,18.0,1,6.38,1080.0,2340.0,60.0,water drop,48.0,1.0,32.0,0,0,0,1,1,0,Android,9.0,2.5272
+Vivo T3 Pro,Vivo,pro_plus,31990.0,8.0,256.0,Snapdragon 782G,Snapdragon,8.0,2.7,4700.0,80.0,1,6.67,1080.0,2408.0,120.0,water drop,64.0,3.0,32.0,1,0,0,1,1,0,Android,13.0,2.60064
+Vivo V21s,Vivo,standard,29999.0,8.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,4000.0,33.0,1,6.44,1080.0,2400.0,90.0,water drop,64.0,3.0,44.0,1,1,0,1,1,0,Android,12.0,2.592
+Asus ROG Phone 6D Ultimate,Asus,standard,107990.0,16.0,512.0,Dimensity 9000 Plus,Dimensity,8.0,3.2,6000.0,65.0,1,6.78,1080.0,2448.0,165.0,none,50.0,3.0,12.0,1,1,0,1,0,0,Other,,2.64384
+Motorola Moto Edge 30 Neo,Motorola,lite,31990.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4020.0,68.0,1,6.28,1080.0,2400.0,120.0,punch hole,64.0,2.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Xiaomi 12T,Xiaomi,standard,48990.0,8.0,128.0,Dimensity 8100 Ultra,Dimensity,8.0,2.85,5000.0,120.0,1,6.67,1220.0,2712.0,120.0,punch hole,108.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,3.30864
+Huawei Mate 50 Pro 5G,Huawei,pro_plus,99990.0,8.0,256.0,Kirin 9000E,Kirin,8.0,3.13,4500.0,66.0,1,6.76,1440.0,3200.0,120.0,notch,64.0,3.0,13.0,1,1,0,1,0,0,Other,,4.608
+Realme C32,Realme,standard,9499.0,4.0,64.0,Tiger T612,Tiger,8.0,1.82,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Huawei Mate Xs 2,Huawei,standard,162990.0,8.0,512.0,Snapdragon 888,Snapdragon,8.0,2.84,4600.0,66.0,1,7.8,2200.0,2480.0,120.0,punch hole,50.0,3.0,10.7,0,1,1,1,1,1,Other,,5.456
+iQOO Z7 Pro 5G,iQOO,pro_plus,24999.0,6.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,5000.0,67.0,1,6.62,1080.0,2412.0,144.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Apple iPhone 15,Apple,standard,82990.0,6.0,128.0,,Unknown,,,3285.0,,1,6.06,1170.0,2532.0,60.0,punch hole,50.0,2.0,13.0,0,1,0,1,0,0,iOS,15.0,2.96244
+Infinix Note 11S (8GB RAM + 128GB),Infinix,pro_plus,15999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.95,1080.0,2460.0,120.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.6568
+Tecno Spark 8 (4GB RAM + 64GB),Tecno,pro_plus,8999.0,4.0,64.0,Helio A25,Helio,8.0,1.8,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,16.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Oppo A56 5G,Oppo,standard,17990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,1,0,0,1,1,0,Android,11.0,1.152
+Vivo X80 Pro Plus 5G,Vivo,pro_plus,82990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4500.0,120.0,1,6.78,1440.0,3200.0,120.0,punch hole,50.0,1.0,32.0,1,1,0,1,0,0,Android,11.0,4.608
+Xiaomi Redmi 10 Prime (6GB RAM + 128GB),Xiaomi,pro_plus,12999.0,6.0,128.0,Helio G88,Helio,8.0,2.0,6000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,50.0,1.0,8.0,0,0,1,1,1,0,Android,11.0,2.592
+Huawei Nova 9,Huawei,standard,29990.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4300.0,66.0,1,6.57,1080.0,2340.0,120.0,punch hole,50.0,1.0,32.0,0,1,0,0,0,0,Other,2.0,2.5272
+Tecno Pop 5 Go,Tecno,lite,6999.0,1.0,16.0,Spreadtrum SC7731,Spreadtrum,4.0,1.3,4000.0,0.0,0,6.1,720.0,1520.0,60.0,water drop,5.0,2.0,5.0,0,0,0,0,1,0,Android,11.0,1.0944
+Huawei P50 Pro 4G,Huawei,pro_plus,60999.0,8.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,4360.0,66.0,1,6.6,1288.0,2700.0,120.0,punch hole,50.0,1.0,13.0,0,1,1,1,1,0,Other,2.0,3.4776
+Xiaomi Redmi K50 5G,Xiaomi,standard,27990.0,8.0,128.0,Dimensity 8100,Dimensity,8.0,2.85,5500.0,67.0,1,6.67,1440.0,3200.0,120.0,punch hole,48.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,4.608
+Nokia C01 Plus,Nokia,pro_plus,5249.0,2.0,16.0,Unisoc SC9863A,Unisoc,8.0,1.6,3000.0,0.0,0,5.45,720.0,1440.0,60.0,none,5.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.0368
+Realme Q3,Realme,standard,14999.0,6.0,128.0,Snapdragon 750G,Snapdragon,8.0,2.2,5000.0,30.0,1,6.5,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+OPPO Reno 6 Pro Plus 5G,Oppo,pro_plus,44990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,65.0,1,6.55,1080.0,2400.0,90.0,punch hole,50.0,1.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Motorola Edge S,Motorola,standard,22490.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,5000.0,20.0,1,6.7,1080.0,2520.0,90.0,punch hole,64.0,1.0,16.0,1,1,0,1,1,0,Android,11.0,2.7216
+Oppo Find X3 Pro,Oppo,pro_plus,50990.0,12.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,65.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,1.0,32.0,1,1,0,1,0,0,Android,11.0,4.63104
+Poco M3,Poco,standard,11499.0,6.0,64.0,Snapdragon 662,Snapdragon,8.0,2.0,6000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,48.0,3.0,8.0,0,0,1,1,1,0,Android,10.0,2.5272
+itel S16,Itel,standard,5990.0,1.0,16.0,Unisoc SC7731E,Unisoc,4.0,1.3,4000.0,0.0,0,6.5,1600.0,720.0,60.0,water drop,8.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.152
+Vivo V20 Pro,Vivo,pro_plus,27000.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4000.0,33.0,1,6.44,1080.0,2400.0,60.0,notch,64.0,3.0,44.0,1,0,0,1,0,0,Android,10.0,2.592
+Xiaomi Mi 10T Pro 5G,Xiaomi,pro_plus,29999.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,5000.0,33.0,1,6.67,1080.0,2400.0,144.0,punch hole,108.0,3.0,20.0,1,1,1,1,0,0,Android,10.0,2.592
+Vivo V19 (8GB RAM + 256GB),Vivo,pro_plus,27990.0,8.0,256.0,Snapdragon 712,Snapdragon,8.0,2.3,4500.0,33.0,1,6.44,1080.0,2400.0,60.0,punch hole,48.0,1.0,32.0,0,0,0,1,1,0,Android,10.0,2.592
+Samsung Galaxy S20 5G,Samsung,standard,74999.0,8.0,128.0,Exynos 990,Exynos,8.0,2.73,4000.0,25.0,1,6.2,1440.0,3200.0,60.0,punch hole,64.0,3.0,10.0,1,1,0,1,1,0,Android,10.0,4.608
+Vivo U3,Vivo,standard,9990.0,4.0,64.0,Snapdragon 675,Snapdragon,8.0,2.0,5000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,16.0,3.0,16.0,0,0,0,1,1,0,Android,9.0,2.5272
+Oppo K5 (8GB RAM + 128GB),Oppo,pro_plus,19990.0,8.0,128.0,Snapdragon 730G,Snapdragon,8.0,2.2,4000.0,30.0,1,6.4,1080.0,2340.0,60.0,water drop,64.0,1.0,32.0,0,0,0,1,1,0,Android,9.0,2.5272
+Realme XT,Realme,standard,13279.0,4.0,64.0,Snapdragon 712,Snapdragon,8.0,2.3,4000.0,20.0,1,6.4,1080.0,2340.0,60.0,water drop,64.0,1.0,16.0,0,0,0,1,1,0,Android,9.0,2.5272
+Vivo Y12 (3GB RAM + 64GB),Vivo,pro_plus,11000.0,3.0,64.0,Helio P22,Helio,8.0,2.0,5000.0,0.0,0,6.35,720.0,1544.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,9.0,1.11168
+Xiaomi Poco F1 (6GB RAM + 128GB),Xiaomi,pro_plus,12999.0,6.0,128.0,Snapdragon 845,Snapdragon,8.0,2.8,4000.0,,1,6.18,1080.0,2246.0,60.0,notch,12.0,2.0,20.0,0,0,0,1,1,0,Android,8.0,2.42568
+Poco C50 (3GB RAM + 32GB),Poco,pro_plus,7299.0,3.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+iKall Z19,Ikall,standard,7999.0,4.0,32.0,Quad Core,Quad,4.0,1.6,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,20.0,1.0,13.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi K60 Gaming Edition,Xiaomi,standard,54990.0,8.0,128.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,67.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.0,3.0,20.0,1,1,1,1,0,0,Android,13.0,4.608
+Vivo S17 Pro,Vivo,pro_plus,49990.0,12.0,256.0,Dimensity 9200,Dimensity,8.0,,5000.0,120.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Honor 80 Pro Plus,Honor,pro_plus,54990.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4500.0,100.0,1,6.78,1200.0,2652.0,120.0,punch hole,200.0,3.0,50.0,1,1,0,1,0,0,Android,12.0,3.1824
+Tecno Pova Neo 5G,Tecno,lite,15499.0,4.0,128.0,Dimensity 810 5G,Dimensity,8.0,2.4,6000.0,18.0,1,6.8,1080.0,2400.0,120.0,punch hole,50.0,1.0,8.0,1,0,0,1,1,0,Android,12.0,2.592
+Apple iPhone 14 Pro Max (512GB),Apple,ultra,169900.0,6.0,512.0,Bionic A16,Bionic,6.0,,4323.0,,1,6.7,1290.0,2796.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.60684
+Google Pixel 8,Google,standard,53990.0,8.0,128.0,Google Tensor 3,Google,8.0,,4830.0,67.0,1,6.6,1080.0,2400.0,120.0,punch hole,50.0,2.0,10.1,1,1,0,1,0,0,Android,13.0,2.592
+Vivo T2x 5G,Vivo,standard,18990.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,6000.0,44.0,1,6.58,1080.0,2408.0,120.0,water drop,50.0,2.0,16.0,1,0,0,1,0,0,Android,12.0,2.60064
+Motorola Moto G52 5G,Motorola,standard,16999.0,4.0,64.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,33.0,1,6.6,2460.0,1080.0,90.0,punch hole,50.0,3.0,16.0,1,1,0,1,1,0,Android,12.0,2.6568
+Motorola Edge 40 5G,Motorola,standard,34999.0,8.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,4200.0,67.0,1,6.5,1080.0,2412.0,144.0,none,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.60496
+Vivo X Note 5G (12GB RAM + 512GB),Vivo,pro_plus,82990.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,7.0,1440.0,3080.0,120.0,punch hole,50.0,1.0,16.0,1,1,1,1,0,0,Android,12.0,4.4352
+Realme GT 2 Pro 5G (12GB RAM + 256GB),Realme,pro_plus,46999.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,65.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+Vivo Y15C,Vivo,standard,8499.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Honor X8,Honor,standard,16999.0,6.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,4000.0,22.5,1,6.7,1080.0,2388.0,90.0,punch hole,64.0,1.0,16.0,0,0,0,1,0,0,Android,11.0,2.57904
+Samsung Galaxy A03 (4GB RAM + 64GB),Samsung,pro_plus,11499.0,4.0,64.0,Unisoc T606,Unisoc,8.0,1.6,5000.0,15.0,1,6.5,720.0,1560.0,60.0,water drop,48.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.1232
+Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),Samsung,pro_plus,88999.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4500.0,45.0,1,6.6,1080.0,2340.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,0,Android,12.0,2.5272
+Vivo Y33T,Vivo,standard,15990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi 11i 5G (8GB RAM + 128GB),Xiaomi,pro_plus,24990.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,5160.0,67.0,1,6.67,2400.0,1080.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Oppo Find X5 Pro 5G,Oppo,pro_plus,79990.0,8.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,80.0,1,6.7,1440.0,3216.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,4.63104
+Tecno Spark Go 2022,Tecno,lite,6249.0,2.0,32.0,Octa Core,Octa,8.0,2.2,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Vivo Y21e,Vivo,standard,12499.0,3.0,64.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi 9A Sport,Xiaomi,standard,6499.0,2.0,32.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Apple iPhone 13 Pro Max (1TB),Apple,ultra,179900.0,6.0,1024.0,Bionic A15,Bionic,6.0,3.22,4352.0,,1,6.7,1284.0,2778.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,3.566952
+Vivo Y12G (3GB RAM + 64GB),Vivo,pro_plus,11990.0,3.0,64.0,Snapdragon 439,Snapdragon,8.0,2.0,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Vivo V23e,Vivo,standard,26990.0,8.0,128.0,Helio G96,Helio,8.0,2.05,4050.0,44.0,1,6.44,1080.0,2400.0,60.0,water drop,64.0,3.0,50.0,0,0,0,1,0,0,Android,11.0,2.592
+Samsung Galaxy F22 (6GB RAM + 128GB),Samsung,pro_plus,13499.0,6.0,128.0,Helio G80,Helio,8.0,2.0,6000.0,0.0,0,6.4,720.0,1600.0,90.0,water drop,48.0,1.0,13.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi 12 Ultra 5G,Xiaomi,ultra,75999.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4800.0,67.0,1,6.73,1440.0,3200.0,120.0,punch hole,50.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,4.608
+Micromax IN 2C,Micromax,standard,5999.0,3.0,32.0,Tiger T610,Tiger,8.0,1.8,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A03s,Samsung,standard,8499.0,3.0,32.0,Helio P35,Helio,8.0,2.3,5000.0,15.0,1,6.5,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+OPPO A54 (4GB RAM + 128GB),Oppo,pro_plus,11990.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.51,1600.0,720.0,60.0,punch hole,13.0,3.0,16.0,0,0,0,1,1,0,Android,10.0,1.152
+Xiaomi Redmi 20X,Xiaomi,standard,10990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.43,1080.0,2340.0,90.0,punch hole,48.0,1.0,13.0,1,0,1,1,1,0,Android,10.0,2.5272
+Xiaomi Mi Mix Fold,Xiaomi,standard,109990.0,12.0,256.0,Snapdragon 888,Snapdragon,8.0,2.84,5020.0,67.0,1,8.01,1860.0,2480.0,90.0,none,108.0,3.0,20.0,1,1,1,1,0,1,Android,10.0,4.6128
+Realme Narzo 30 5G,Realme,standard,16999.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,48.0,3.0,16.0,1,1,0,1,1,0,Android,11.0,2.592
+OPPO A54,Oppo,standard,12199.0,4.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.51,1600.0,720.0,60.0,punch hole,13.0,3.0,16.0,0,0,0,1,1,0,Android,10.0,1.152
+Oppo A15s (4GB RAM + 128GB),Oppo,pro_plus,11490.0,4.0,128.0,Helio P35,Helio,8.0,2.3,4230.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.152
+itel A56,Itel,standard,5490.0,1.0,16.0,Quad Core,Quad,4.0,1.3,4000.0,0.0,0,6.0,720.0,1600.0,60.0,none,8.0,1.0,5.0,0,0,0,1,1,0,Android,9.0,1.152
+Xiaomi Redmi 9 Power,Xiaomi,standard,11499.0,4.0,64.0,Snapdragon 662,Snapdragon,8.0,2.0,6000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,48.0,1.0,8.0,0,0,1,1,1,0,Android,10.0,2.5272
+Samsung Galaxy S21 Plus,Samsung,pro_plus,59450.0,8.0,128.0,Exynos 2100,Exynos,8.0,2.9,4800.0,25.0,1,6.7,1080.0,2400.0,120.0,punch hole,64.0,3.0,10.0,1,1,0,1,0,0,Android,10.0,2.592
+POCO M2 Pro,Poco,pro_plus,12799.0,4.0,64.0,Snapdragon 720G,Snapdragon,8.0,2.3,5000.0,33.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+Samsung Galaxy S20 Plus,Samsung,pro_plus,83000.0,8.0,128.0,Exynos 990,Exynos,8.0,2.73,4500.0,25.0,1,6.7,1440.0,3200.0,120.0,punch hole,64.0,1.0,10.0,0,1,0,1,1,0,Android,10.0,4.608
+Realme 6 Pro,Realme,pro_plus,14490.0,6.0,64.0,Snapdragon 720G,Snapdragon,8.0,2.3,4300.0,30.0,1,6.6,1080.0,2400.0,90.0,punch hole,64.0,1.0,16.0,0,0,0,1,1,0,Android,10.0,2.592
+Huawei P40 Pro,Huawei,pro_plus,82990.0,8.0,256.0,Kirin 990,Kirin,8.0,2.86,4200.0,40.0,1,6.58,1200.0,2640.0,90.0,punch hole,50.0,1.0,32.0,1,1,0,1,1,0,Android,10.0,3.168
+Vivo Y11 (2019),Vivo,standard,9490.0,3.0,32.0,Snapdragon 439,Snapdragon,8.0,2.0,5000.0,0.0,0,6.35,720.0,1544.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,9.0,1.11168
+Vivo V15 Pro (8GB RAM +128GB),Vivo,pro_plus,25000.0,8.0,128.0,Snapdragon 675,Snapdragon,8.0,2.0,3700.0,,1,6.39,1080.0,2316.0,60.0,none,48.0,3.0,32.0,0,0,0,1,1,0,Android,9.0,2.50128
+Vivo Y95,Vivo,standard,15000.0,4.0,64.0,Snapdragon 439,Snapdragon,8.0,1.95,4030.0,0.0,0,6.22,1520.0,720.0,60.0,water drop,13.0,2.0,20.0,0,0,0,1,1,0,Android,8.0,1.0944
+Vivo V11i,Vivo,standard,20990.0,4.0,128.0,Helio P60,Helio,8.0,2.0,3315.0,0.0,0,6.3,1080.0,2280.0,60.0,none,16.0,2.0,25.0,0,0,0,1,1,0,Android,8.0,2.4624
+Samsung Galaxy S9 Plus (128GB),Samsung,pro_plus,34999.0,6.0,128.0,Exynos 9810,Exynos,8.0,2.8,3500.0,,1,6.2,1440.0,2960.0,60.0,none,12.0,2.0,8.0,0,1,0,1,1,0,Android,8.0,4.2624
+Realme GT Neo 4T,Realme,lite,29999.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,120.0,1,6.73,1080.0,2400.0,144.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,13.0,2.592
+Vivo Y53t,Vivo,standard,11999.0,4.0,128.0,Dimensity 700,Dimensity,8.0,2.0,6000.0,15.0,1,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,1,0,0,1,0,0,Android,13.0,1.152
+Samsung Galaxy A04 (4GB RAM + 128GB),Samsung,pro_plus,12999.0,4.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.5,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Leitz Phone 2,Leitz,standard,124990.0,12.0,256.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,,1,6.6,1260.0,2730.0,240.0,punch hole,47.2,2.0,12.6,1,1,0,1,1,0,Android,12.0,3.4398
+Xiaomi Redmi K60i,Xiaomi,standard,28999.0,8.0,128.0,Dimensity 8200,Dimensity,8.0,3.1,5080.0,120.0,1,6.67,1080.0,2460.0,120.0,punch hole,50.0,3.0,32.0,1,0,1,1,0,0,Android,13.0,2.6568
+Infinix Hot 20S,Infinix,standard,12999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,18.0,1,6.78,1080.0,2460.0,60.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,2.6568
+Realme GT Neo 3T (8GB RAM + 256GB),Realme,pro_plus,28499.0,8.0,256.0,Snapdragon 870,Snapdragon,8.0,3.2,5000.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Apple iPhone 14 Plus (512GB),Apple,pro_plus,104999.0,6.0,512.0,Bionic A15,Bionic,6.0,3.22,4325.0,,1,6.7,1284.0,2778.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,3.566952
+Apple iPhone 14 Pro (1TB),Apple,pro_plus,172999.0,6.0,1024.0,Bionic A16,Bionic,6.0,,3200.0,,1,6.1,1179.0,2556.0,120.0,none,48.0,3.0,12.0,1,1,0,1,0,0,iOS,16.0,3.013524
+Xiaomi Redmi 13 Prime 5G,Xiaomi,standard,17990.0,6.0,128.0,Snapdragon 4 Gen 1,Snapdragon,8.0,2.0,5100.0,18.0,1,6.73,1080.0,2408.0,120.0,punch hole,64.0,2.0,16.0,1,0,1,1,1,0,Android,13.0,2.60064
+Xiaomi Redmi 11 Prime (6GB RAM + 128GB),Xiaomi,pro_plus,13774.0,6.0,128.0,Helio G99,Helio,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,3.0,8.0,0,0,1,1,1,0,Android,12.0,2.592
+Nokia C21 Plus (4GB RAM + 64GB),Nokia,pro_plus,8999.0,4.0,64.0,Unisoc SC9863A,Unisoc,8.0,1.6,5050.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+OnePlus Nord N300,OnePlus,standard,18990.0,4.0,64.0,Dimensity 810 5G,Dimensity,8.0,2.4,5000.0,33.0,1,6.56,720.0,1612.0,90.0,water drop,48.0,2.0,16.0,1,1,0,1,1,0,Android,12.0,1.16064
+Tecno Camon 19 Neo,Tecno,lite,14999.0,6.0,128.0,Helio G85,Helio,8.0,2.0,5000.0,18.0,1,6.8,1080.0,2400.0,90.0,punch hole,48.0,2.0,32.0,0,1,0,1,0,0,Android,12.0,2.592
+Realme Narzo 50i Prime,Realme,standard,7999.0,3.0,32.0,Tiger T612,Tiger,8.0,1.82,5000.0,10.0,1,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Xiaomi Redmi K50 Ultra 5G,Xiaomi,ultra,39999.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,120.0,1,6.67,1220.0,2712.0,144.0,punch hole,108.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,3.30864
+OPPO A57 4G,Oppo,standard,11990.0,3.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,33.0,1,6.56,720.0,1612.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Infinix Note 12 (6GB RAM + 128GB),Infinix,pro_plus,12999.0,6.0,128.0,Helio G88,Helio,8.0,2.0,5000.0,33.0,1,6.7,2400.0,1080.0,60.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Samsung Galaxy S23 FE 5G,Samsung,standard,54999.0,8.0,128.0,Octa Core Processor,Octa,8.0,,4500.0,,1,6.5,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Samsung Galaxy M51s 5G,Samsung,standard,24990.0,6.0,128.0,Octa Core Processor,Octa,8.0,,6000.0,,1,6.7,1080.0,2400.0,60.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+Vivo X80 5G (12GB RAM + 256GB),Vivo,pro_plus,59999.0,12.0,256.0,Dimensity 9000,Dimensity,8.0,3.05,4500.0,80.0,1,6.78,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,0,0,1,0,0,Android,12.0,2.592
+Poco X6 Pro 5G,Poco,pro_plus,19999.0,6.0,128.0,Snapdragon 778G+,Snapdragon,8.0,,5000.0,,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,1.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
+Infinix Note 12 (G96),Infinix,standard,16999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy M14,Samsung,standard,14999.0,4.0,64.0,Exynos 1330,Exynos,8.0,,6000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,48.0,3.0,8.0,0,0,0,1,1,0,Android,13.0,1.152
+Vivo T2 Pro 5G,Vivo,pro_plus,29990.0,8.0,128.0,Snapdragon 778G+,Snapdragon,8.0,,4500.0,67.0,1,6.44,1080.0,2408.0,90.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60064
+Xiaomi Redmi 10 Prime Plus 5G,Xiaomi,pro_plus,13990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,90.0,punch hole,50.0,2.0,5.0,1,0,1,1,0,0,Android,11.0,2.60064
+Xiaomi Redmi Note 11 Pro 4G,Xiaomi,pro_plus,17999.0,6.0,128.0,Helio G96,Helio,8.0,2.05,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,1.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme Narzo 50A Prime,Realme,standard,11399.0,4.0,64.0,Tiger T612,Tiger,8.0,1.82,5000.0,18.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.60064
+Vivo Y55s 5G,Vivo,standard,19990.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,6000.0,18.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,2.0,8.0,1,0,0,1,0,0,Android,11.0,2.60064
+Vivo Y21T,Vivo,standard,15499.0,4.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,18.0,1,6.51,1600.0,720.0,90.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Gionee K10,Gionee,standard,6999.0,3.0,32.0,Tiger T310,Tiger,4.0,2.0,4800.0,0.0,0,6.8,720.0,1600.0,60.0,punch hole,13.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),Xiaomi,pro_plus,12499.0,4.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+Apple iPhone 13 (512GB),Apple,standard,91999.0,4.0,512.0,Bionic A15,Bionic,6.0,3.22,3240.0,,1,6.1,1170.0,2532.0,60.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+Infinix Hot 11S,Infinix,standard,9690.0,4.0,64.0,Helio G88,Helio,8.0,2.0,5000.0,0.0,0,6.78,1080.0,2480.0,90.0,punch hole,50.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,2.6784
+Realme GT Explorer Master Edition,Realme,standard,32990.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4500.0,65.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,11.0,2.592
+Xiaomi Mi 12 5G,Xiaomi,standard,42990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4500.0,67.0,1,6.28,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,12.0,2.592
+CAT S22 Flip,Cat,standard,14999.0,2.0,16.0,Qualcomm 215,Qualcomm,4.0,1.3,2000.0,0.0,0,4.0,480.0,640.0,60.0,none,5.0,1.0,2.0,0,0,0,1,1,0,Other,,0.3072
+Xiaomi Mi 11 Lite (8GB RAM + 128GB),Xiaomi,pro_plus,18699.0,8.0,128.0,Snapdragon 732G,Snapdragon,8.0,2.3,4250.0,33.0,1,6.55,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,0,0,1,1,1,0,Android,11.0,2.592
+Realme Q3i 5G,Realme,standard,10990.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.5,1080.0,2400.0,60.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Xiaomi Mi 11X Pro,Xiaomi,pro_plus,30990.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4520.0,33.0,1,6.67,1080.0,2400.0,120.0,punch hole,108.0,3.0,20.0,1,0,1,1,0,0,Android,11.0,2.592
+Lenovo Legion Pro 2,Lenovo,pro_plus,59999.0,16.0,512.0,Snapdragon 888,Snapdragon,8.0,2.84,5000.0,120.0,1,6.5,1080.0,2400.0,144.0,none,64.0,2.0,20.0,1,1,0,1,0,0,Android,10.0,2.592
+Samsung Galaxy M62,Samsung,standard,23999.0,6.0,128.0,Exynos 9825,Exynos,8.0,2.73,7000.0,,1,6.71,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,0,1,0,1,1,0,Android,11.0,2.592
+Realme Q2i,Realme,standard,9999.0,4.0,128.0,Dimensity 720,Dimensity,8.0,2.0,5000.0,18.0,1,6.5,720.0,1600.0,60.0,water drop,13.0,3.0,8.0,1,0,0,1,0,0,Android,10.0,1.152
+Xiaomi Redmi 9i (4GB RAM + 128GB),Xiaomi,pro_plus,9299.0,4.0,128.0,Helio G25,Helio,8.0,2.0,5000.0,10.0,1,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Realme 6 (6GB RAM + 64GB),Realme,pro_plus,12989.0,6.0,64.0,Helio G90T,Helio,8.0,2.05,4300.0,30.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,1.0,16.0,0,0,0,1,1,0,Android,10.0,2.592
+Samsung Galaxy A01 Core,Samsung,standard,4999.0,1.0,16.0,(28 nm),(28,4.0,1.5,3000.0,0.0,0,5.3,720.0,1480.0,60.0,none,8.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.0656
+Oppo Reno 5,Oppo,standard,29990.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4300.0,65.0,1,6.43,1080.0,2400.0,60.0,punch hole,64.0,1.0,32.0,1,0,0,1,0,0,Android,11.0,2.592
+Oppo A31 2020 (6GB RAM + 128GB),Oppo,pro_plus,12490.0,6.0,128.0,Helio P35,Helio,8.0,2.3,4230.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,12.0,3.0,8.0,0,0,0,1,1,0,Android,9.0,1.152
+Sony Xperia 10 II,Sony,standard,27999.0,4.0,128.0,Snapdragon 665,Snapdragon,8.0,2.0,3600.0,18.0,1,6.0,1080.0,2520.0,90.0,none,12.0,3.0,8.0,0,1,0,1,1,0,Android,10.0,2.7216
+Vivo Y91c,Vivo,standard,8199.0,2.0,32.0,Helio P22,Helio,8.0,2.0,4030.0,0.0,0,6.22,720.0,1520.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,8.0,1.0944
+Huawei Nova 7i,Huawei,standard,21990.0,8.0,128.0,Kirin 810,Kirin,8.0,2.2,4200.0,40.0,1,6.4,1080.0,2340.0,60.0,punch hole,48.0,1.0,16.0,0,0,0,1,1,0,Android,10.0,2.5272
+Vivo Y19,Vivo,standard,20000.0,4.0,128.0,Helio P65,Helio,8.0,2.0,5000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,16.0,3.0,16.0,0,0,0,1,1,0,Android,9.0,2.5272
+Vivo U3 (6GB RAM + 64GB),Vivo,pro_plus,11990.0,6.0,64.0,Snapdragon 675,Snapdragon,8.0,2.0,5000.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,16.0,3.0,16.0,0,0,0,1,1,0,Android,9.0,2.5272
+Xiaomi Redmi Note 9,Xiaomi,standard,11989.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5020.0,22.5,1,6.53,1080.0,2340.0,60.0,punch hole,48.0,1.0,13.0,0,0,1,1,1,0,Android,10.0,2.5272
+Xiaomi Redmi 8 (4GB RAM + 64GB),Xiaomi,pro_plus,11490.0,4.0,64.0,Snapdragon 439,Snapdragon,8.0,2.0,5000.0,18.0,1,6.22,720.0,1520.0,60.0,water drop,12.0,2.0,8.0,0,0,1,1,1,0,Android,9.0,1.0944
+Motorola One Macro,Motorola,standard,11490.0,4.0,64.0,Helio P70,Helio,8.0,2.0,4000.0,10.0,1,6.2,720.0,1520.0,60.0,water drop,13.0,3.0,8.0,0,0,0,1,1,0,Android,9.0,1.0944
+Google Pixel 3a XL,Google,standard,15999.0,4.0,64.0,Qualcomm Snapdragon 670,Qualcomm,8.0,2.0,3700.0,18.0,1,6.0,1080.0,2160.0,60.0,none,12.2,1.0,8.0,0,1,0,1,0,0,Android,9.0,2.3328
+Samsung Galaxy A40,Samsung,standard,17990.0,4.0,64.0,Samsung Exynos 7885,Samsung,8.0,2.2,3100.0,15.0,1,5.9,1080.0,2340.0,60.0,water drop,16.0,2.0,25.0,0,0,0,1,1,0,Android,9.0,2.5272
+Samsung Galaxy S10 5G,Samsung,standard,78990.0,8.0,256.0,Exynos 9820,Exynos,8.0,2.7,4500.0,25.0,1,6.7,1440.0,3040.0,60.0,none,16.0,3.0,10.0,1,1,0,1,1,0,Android,9.0,4.3776
+Huawei Honor 9N,Huawei,standard,10949.0,4.0,64.0,Kirin 659,Kirin,8.0,2.36,3000.0,0.0,0,5.84,1080.0,2280.0,60.0,notch,13.0,2.0,16.0,0,0,0,1,1,0,Android,8.0,2.4624
+Xiaomi Redmi Note 4,Xiaomi,standard,10300.0,4.0,64.0,Qualcomm Snapdragon 625,Qualcomm,8.0,2.0,4100.0,0.0,0,5.5,1080.0,1920.0,60.0,none,13.0,1.0,5.0,0,0,0,1,1,0,Android,6.0,2.0736
+Doogee V Max,Doogee,ultra,45999.0,12.0,256.0,Dimensity 1080,Dimensity,8.0,2.6,22000.0,33.0,1,6.58,1080.0,2408.0,120.0,water drop,108.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.60064
+Huawei Nova Y61,Huawei,standard,21990.0,4.0,64.0,Octa Core Processor,Octa,8.0,,5000.0,22.5,1,6.52,720.0,1600.0,60.0,water drop,50.0,2.0,5.0,0,0,0,1,1,0,Other,12.0,1.152
+iQOO Z9,iQOO,standard,19990.0,8.0,128.0,Snapdragon 7 Gen2,Snapdragon,8.0,,5000.0,45.0,1,6.67,1080.0,2412.0,120.0,water drop,64.0,3.0,16.0,1,0,0,1,1,0,Android,13.0,2.60496
+Vivo V29,Vivo,standard,32990.0,8.0,256.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.4,5000.0,80.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,0,0,1,1,0,Android,13.0,2.592
+Poco M5 (6GB RAM + 128GB),Poco,pro_plus,14499.0,6.0,128.0,Helio G99,Helio,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2400.0,90.0,water drop,50.0,3.0,8.0,0,0,1,1,1,0,Android,12.0,2.592
+Nokia X30,Nokia,standard,41990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4200.0,33.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,2.0,16.0,1,1,0,1,1,0,Android,12.0,2.592
+Tecno Pova Neo 2,Tecno,lite,13990.0,6.0,128.0,Helio G85,Helio,8.0,2.0,7000.0,0.0,0,6.82,720.0,1600.0,90.0,water drop,16.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Vivo Y15C (3GB RAM + 64GB),Vivo,pro_plus,10490.0,3.0,64.0,Helio P35,Helio,8.0,2.3,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Huawei Nova 10,Huawei,standard,29990.0,8.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4000.0,66.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,60.0,0,0,0,0,0,0,Other,,2.592
+Huawei Nova Y90,Huawei,standard,22990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,40.0,1,6.7,1080.0,2388.0,90.0,punch hole,50.0,1.0,8.0,0,1,0,1,1,0,Other,12.0,2.57904
+Samsung Galaxy A92 5G,Samsung,standard,47990.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,5000.0,,1,6.7,1080.0,2400.0,60.0,punch hole,48.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Infinix Note 12 VIP,Infinix,standard,19999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,4500.0,120.0,1,6.7,1080.0,2400.0,120.0,punch hole,108.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+OnePlus Nord 4 5G,OnePlus,standard,29999.0,8.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.36,4500.0,80.0,1,6.43,1080.0,2412.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.60496
+Realme Narzo 50A Prime (4GB RAM + 128GB),Realme,pro_plus,11879.0,4.0,128.0,Tiger T612,Tiger,8.0,1.82,5000.0,18.0,1,6.6,1080.0,2408.0,60.0,water drop,50.0,3.0,8.0,0,0,0,1,1,0,Android,11.0,2.60064
+OnePlus Ace 5G,OnePlus,standard,28990.0,8.0,128.0,Dimensity 8100 Max,Dimensity,8.0,2.85,4500.0,150.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+iQOO 9 5G (12GB RAM + 256GB),iQOO,pro_plus,39990.0,12.0,256.0,Snapdragon 888+,Snapdragon,8.0,2.9,4350.0,120.0,1,6.56,1080.0,2376.0,120.0,punch hole,48.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.56608
+Xiaomi Redmi Note 12T 5G,Xiaomi,standard,15999.0,6.0,64.0,Dimensity 720,Dimensity,8.0,2.0,5000.0,33.0,1,6.52,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,1,0,1,1,1,0,Android,12.0,2.592
+Oppo A96 5G,Oppo,standard,22990.0,8.0,256.0,Snapdragon 695,Snapdragon,8.0,2.2,4500.0,33.0,1,6.43,1080.0,2400.0,60.0,punch hole,48.0,2.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Royole FlexPai 3 5G,Royole,standard,149999.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,3360.0,0.0,0,7.2,1440.0,1920.0,60.0,none,64.0,3.0,32.0,1,0,0,1,1,1,Other,,2.7648
+Tecno Camon 18,Tecno,standard,11499.0,4.0,128.0,Helio G88,Helio,8.0,2.0,5000.0,18.0,1,6.8,1080.0,2460.0,90.0,punch hole,48.0,3.0,16.0,0,1,0,1,0,0,Android,11.0,2.6568
+Tecno Phantom X Pro,Tecno,pro_plus,22999.0,8.0,256.0,Helio G95,Helio,8.0,2.05,5000.0,44.0,1,6.7,1080.0,2400.0,120.0,punch hole,50.0,1.0,48.0,0,0,0,1,0,0,Android,11.0,2.592
+Tecno Spark 8T,Tecno,lite,7999.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.6,720.0,1600.0,60.0,water drop,50.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Realme GT Neo2 5G,Realme,standard,31999.0,8.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,5000.0,65.0,1,6.62,2400.0,1080.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Sony Xperia 10 III Lite 5G,Sony,lite,30990.0,6.0,64.0,Snapdragon 690,Snapdragon,8.0,2.0,4500.0,30.0,1,6.0,1080.0,2520.0,60.0,none,12.0,3.0,8.0,1,1,0,1,1,0,Android,11.0,2.7216
+Realme G1,Realme,standard,7999.0,3.0,32.0,Helio G35,Helio,8.0,2.3,6000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Tecno Pova 2,Tecno,standard,10999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,7000.0,18.0,1,6.95,1080.0,2460.0,60.0,punch hole,48.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,2.6568
+Poco X4,Poco,standard,14990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.592
+Motorola Moto G40 Fusion,Motorola,standard,14499.0,4.0,64.0,Snapdragon 732G,Snapdragon,8.0,2.3,6000.0,20.0,1,6.78,1080.0,2460.0,120.0,punch hole,64.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.6568
+OnePlus 9T,OnePlus,standard,44999.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,65.0,1,6.55,1080.0,2400.0,120.0,punch hole,108.0,1.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Realme 8 (8GB RAM + 128GB),Realme,pro_plus,17999.0,8.0,128.0,Helio G95,Helio,8.0,2.0,5000.0,30.0,1,6.4,1080.0,2400.0,60.0,punch hole,64.0,1.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Realme Narzo 30 Pro 5G (8GB RAM +128GB),Realme,pro_plus,19999.0,8.0,128.0,Dimensity 800U,Dimensity,8.0,2.4,5000.0,30.0,1,6.5,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,0,0,1,1,0,Android,10.0,2.592
+Itel A23 Pro,Itel,pro_plus,3999.0,1.0,8.0,Spreadtrum SC9832E,Spreadtrum,4.0,1.4,2400.0,0.0,0,5.0,854.0,480.0,60.0,none,5.0,1.0,2.0,0,0,0,0,0,0,Android,10.0,0.40992
+Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),Samsung,ultra,101999.0,12.0,128.0,Exynos 2100,Exynos,8.0,2.9,5000.0,25.0,1,6.8,1440.0,3200.0,120.0,punch hole,108.0,1.0,40.0,1,1,0,1,0,0,Android,10.0,4.608
+Oppo Reno 5 Pro 5G,Oppo,pro_plus,38700.0,8.0,128.0,Dimensity 1000+,Dimensity,8.0,2.6,4350.0,65.0,1,6.53,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,1,0,0,1,0,0,Android,11.0,2.592
+OnePlus Nord SE,OnePlus,standard,19999.0,4.0,64.0,Snapdragon 665,Snapdragon,8.0,2.0,4500.0,65.0,1,6.3,1080.0,2400.0,60.0,punch hole,48.0,1.0,13.0,0,0,0,1,1,0,Android,10.0,2.592
+Samsung Galaxy M12,Samsung,standard,10999.0,4.0,64.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,48.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+OnePlus Nord N100,OnePlus,standard,16990.0,4.0,64.0,Snapdragon 460,Snapdragon,8.0,1.8,5000.0,18.0,1,6.52,720.0,1600.0,90.0,punch hole,13.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.152
+OPPO A15,Oppo,standard,9999.0,3.0,32.0,Helio P35,Helio,8.0,2.3,4230.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,3.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),Xiaomi,pro_plus,14439.0,4.0,128.0,Snapdragon 720G,Snapdragon,8.0,2.3,5020.0,18.0,1,6.67,1080.0,2400.0,60.0,punch hole,48.0,1.0,16.0,0,0,1,1,1,0,Android,10.0,2.592
+Oppo A12,Oppo,standard,9990.0,3.0,32.0,Helio P35,Helio,8.0,1.8,4230.0,0.0,0,6.22,1520.0,720.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,9.0,1.0944
+Realme X50 Pro 5G (8GB RAM + 128GB),Realme,pro_plus,24999.0,8.0,128.0,Snapdragon 865,Snapdragon,8.0,2.84,4200.0,65.0,1,6.44,1080.0,2400.0,90.0,punch hole,64.0,1.0,32.0,1,1,0,1,0,0,Android,10.0,2.592
+Samsung Galaxy S20 Plus 5G,Samsung,pro_plus,85990.0,8.0,128.0,Exynos 990,Exynos,8.0,2.73,4500.0,25.0,1,6.7,1440.0,3200.0,60.0,punch hole,64.0,1.0,10.0,1,1,0,1,1,0,Android,10.0,4.608
+Xiaomi Redmi Note 8 Pro,Xiaomi,pro_plus,16999.0,6.0,64.0,Helio G90T,Helio,8.0,2.05,4500.0,18.0,1,6.53,1080.0,2340.0,60.0,water drop,64.0,1.0,20.0,0,0,1,1,1,0,Android,9.0,2.5272
+Realme A1,Realme,standard,8999.0,2.0,16.0,Helio P70,Helio,8.0,2.1,4000.0,0.0,0,6.2,720.0,1520.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,8.0,1.0944
+OPPO A73,Oppo,standard,15990.0,3.0,32.0,Helio P23,Helio,8.0,2.5,3200.0,0.0,0,6.0,1080.0,2160.0,60.0,none,13.0,1.0,16.0,0,0,0,1,1,0,Android,7.0,2.3328
+Lyf Earth 2,Lyf,standard,3890.0,3.0,32.0,Snapdragon MSM8939,Snapdragon,8.0,1.5,2500.0,0.0,0,5.0,1080.0,1920.0,60.0,none,13.0,1.0,13.0,0,0,0,1,1,0,Android,5.0,2.0736
+Apple iPhone 15 Plus,Apple,pro_plus,84990.0,8.0,128.0,Bionic A16,Bionic,6.0,,4532.0,,1,6.71,1284.0,2778.0,120.0,notch,12.0,2.0,12.0,1,1,0,1,0,0,iOS,16.0,3.566952
+Vivo Y55s 2023,Vivo,standard,21999.0,4.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2408.0,60.0,water drop,50.0,3.0,8.0,1,1,0,1,1,0,Android,12.0,2.60064
+Lava Blaze NXT,Lava,standard,8999.0,4.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Tecno Camon 20 Premier,Tecno,standard,20999.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,33.0,1,6.83,1080.0,2460.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,13.0,2.6568
+OPPO Reno 8 House of Dragon Edition,Oppo,standard,32990.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,80.0,1,6.43,1080.0,2400.0,90.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+Motorola Moto E22s,Motorola,standard,9022.0,4.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,10.0,1,6.5,720.0,1600.0,90.0,punch hole,16.0,2.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Redmi A1 Plus (3GB RAM + 32GB),Xiaomi,pro_plus,8399.0,3.0,32.0,Helio A22,Helio,4.0,2.0,5000.0,10.0,1,6.52,720.0,1600.0,60.0,water drop,8.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Infinix Hot 20i,Infinix,standard,9999.0,3.0,64.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.6,720.0,1612.0,60.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.16064
+Tecno Spark 9 (3GB RAM + 64GB),Tecno,pro_plus,8390.0,3.0,64.0,Helio G37,Helio,8.0,2.3,5000.0,0.0,0,6.6,720.0,1600.0,90.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+ZTE Axon 30S,ZTE,standard,19999.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,4200.0,55.0,1,6.9,1080.0,2460.0,120.0,none,50.0,1.0,16.0,1,1,0,1,1,0,Android,12.0,2.6568
+Honor X6,Honor,standard,13999.0,4.0,64.0,Helio G25,Helio,8.0,2.0,5000.0,10.0,1,6.5,720.0,1600.0,60.0,water drop,50.0,3.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Xiaomi Civi 2,Xiaomi,standard,29999.0,8.0,128.0,Snapdragon 7 Gen1,Snapdragon,8.0,2.4,4500.0,67.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,12.0,2.592
+TCL Ion X,Tcl,standard,8990.0,3.0,32.0,Helio G25,Helio,8.0,2.0,3000.0,10.0,1,6.0,720.0,1440.0,60.0,none,13.0,1.0,5.0,0,0,0,1,1,0,Android,,1.0368
+Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),Samsung,pro_plus,163980.0,12.0,1024.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4400.0,25.0,1,7.6,1812.0,2176.0,120.0,punch hole,50.0,3.0,10.0,1,1,0,1,0,1,Android,12.0,3.942912
+Nothing Phone 1 Lite,Nothing,lite,24990.0,6.0,128.0,Snapdragon 778G Plus,Snapdragon,8.0,2.5,5000.0,33.0,1,6.55,1080.0,2400.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.592
+Motorola Moto Edge X30 Pro,Motorola,pro_plus,59990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4450.0,125.0,1,6.67,1080.0,2340.0,144.0,punch hole,200.0,3.0,60.0,1,1,0,1,0,0,Android,12.0,2.5272
+OnePlus Ace Pro,OnePlus,pro_plus,47990.0,12.0,256.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4800.0,150.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Realme GT 2 Explorer Master Edition,Realme,standard,40990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,100.0,1,6.7,1080.0,2412.0,120.0,punch hole,50.0,2.0,16.0,1,1,0,1,0,0,Android,12.0,2.60496
+Samsung Galaxy M35,Samsung,standard,22999.0,8.0,128.0,Octa Core Processor,Octa,8.0,,6000.0,,1,6.5,1080.0,2400.0,60.0,water drop,64.0,3.0,32.0,0,1,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy A05,Samsung,standard,12990.0,4.0,64.0,Octa Core Processor,Octa,8.0,,5000.0,18.0,1,6.5,720.0,1560.0,60.0,water drop,48.0,2.0,5.0,0,0,0,1,1,0,Android,12.0,1.1232
+Infinix Note 12 Turbo,Infinix,standard,14999.0,8.0,128.0,Helio G96,Helio,8.0,2.0,5000.0,33.0,1,6.7,2400.0,1080.0,60.0,punch hole,50.0,2.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+POCO F5 GT 5G,Poco,standard,42999.0,8.0,128.0,Dimensity 1300,Dimensity,8.0,3.0,4500.0,150.0,1,6.67,1080.0,2412.0,120.0,punch hole,64.0,3.0,20.0,1,1,1,1,0,0,Android,12.0,2.60496
+iQOO Z8 5G,iQOO,standard,14999.0,4.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,18.0,1,6.58,1080.0,2412.0,120.0,water drop,50.0,3.0,16.0,1,0,0,1,1,0,Android,12.0,2.60496
+Vivo Y55 4G,Vivo,standard,22990.0,8.0,128.0,Snapdragon 680,Snapdragon,8.0,2.4,5000.0,44.0,1,6.44,1080.0,2400.0,120.0,water drop,50.0,3.0,16.0,0,0,0,1,1,0,Android,12.0,2.592
+Vivo X Fold 5G (12GB RAM + 512GB),Vivo,pro_plus,118990.0,12.0,512.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,4600.0,66.0,1,8.03,1916.0,2160.0,120.0,none,50.0,1.0,16.0,1,1,0,1,0,1,Android,12.0,4.13856
+Oppo K10 Pro 5G,Oppo,pro_plus,29990.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,5000.0,80.0,1,6.62,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Tecno Spark 8C,Tecno,lite,7399.0,3.0,64.0,Unisoc T606,Unisoc,8.0,2.0,5000.0,0.0,0,6.6,720.0,1612.0,90.0,water drop,13.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.16064
+iQOO Z7 5G,iQOO,standard,17999.0,8.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,4200.0,55.0,1,6.67,1080.0,2400.0,120.0,punch hole,50.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.592
+Infinix Note 11 (6GB RAM + 128GB),Infinix,pro_plus,12799.0,6.0,128.0,Helio G88,Helio,8.0,2.0,5000.0,33.0,1,6.7,1080.0,2400.0,60.0,water drop,50.0,2.0,16.0,0,0,0,1,1,0,Android,11.0,2.592
+Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),Xiaomi,pro_plus,26999.0,8.0,128.0,Dimensity 920 5G,Dimensity,8.0,2.5,4500.0,120.0,1,6.67,2400.0,1080.0,120.0,punch hole,108.0,3.0,16.0,1,0,1,1,1,0,Android,11.0,2.592
+Samsung Galaxy F42 5G (8GB RAM + 128GB),Samsung,pro_plus,22999.0,8.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,15.0,1,6.6,1080.0,2408.0,90.0,water drop,64.0,3.0,8.0,1,0,0,1,1,0,Android,11.0,2.60064
+Apple iPhone 13 Pro (1TB),Apple,pro_plus,147900.0,6.0,1024.0,Bionic A15,Bionic,6.0,3.22,3095.0,,1,6.1,1170.0,2532.0,120.0,notch,12.0,3.0,12.0,1,1,0,1,0,0,iOS,15.0,2.96244
+Nubia Red Magic 6S 5G,Nubia,standard,44999.0,8.0,128.0,Snapdragon 888+,Snapdragon,8.0,2.9,5050.0,30.0,1,6.8,1080.0,2400.0,165.0,none,64.0,3.0,8.0,1,1,0,1,0,0,Android,11.0,2.592
+Micromax IN 2B (6GB RAM + 64GB),Micromax,pro_plus,7790.0,6.0,64.0,Unisoc T610,Unisoc,8.0,1.8,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Nokia X60 5G,Nokia,standard,39990.0,6.0,128.0,Snapdragon 870,Snapdragon,8.0,3.2,6000.0,33.0,1,6.51,1080.0,2400.0,144.0,punch hole,200.0,1.0,16.0,1,0,0,1,1,0,Other,2.0,2.592
+Vivo Y12a,Vivo,standard,9999.0,3.0,32.0,Snapdragon 439,Snapdragon,8.0,2.0,5000.0,0.0,0,6.51,720.0,1600.0,60.0,water drop,13.0,2.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Oppo Reno 5A,Oppo,standard,22990.0,6.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4000.0,18.0,1,6.5,1080.0,2400.0,90.0,punch hole,64.0,1.0,16.0,1,0,0,1,1,0,Android,11.0,2.592
+Poco F3 GT,Poco,standard,32999.0,6.0,128.0,Dimensity 1200,Dimensity,8.0,3.0,5065.0,67.0,1,6.67,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,0,1,1,0,0,Android,11.0,2.592
+Honor 50,Honor,standard,32990.0,6.0,128.0,Snapdragon 778G,Snapdragon,8.0,2.4,4300.0,66.0,1,6.57,1080.0,2340.0,120.0,punch hole,108.0,1.0,32.0,1,1,0,1,0,0,Android,11.0,2.5272
+OPPO A54 (6GB RAM + 128GB),Oppo,pro_plus,14999.0,6.0,128.0,Helio P35,Helio,8.0,2.3,5000.0,,1,6.51,1600.0,720.0,60.0,punch hole,13.0,3.0,16.0,0,0,0,1,1,0,Android,10.0,1.152
+Realme 8i,Realme,standard,12499.0,4.0,64.0,Helio G96,Helio,8.0,2.05,5000.0,18.0,1,6.6,1080.0,2412.0,120.0,punch hole,50.0,3.0,16.0,0,0,0,1,1,0,Android,11.0,2.60496
+iQOO 7 Legend,iQOO,standard,39990.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4000.0,66.0,1,6.62,1080.0,2400.0,120.0,punch hole,48.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Realme C11 2021,Realme,standard,6499.0,2.0,32.0,SC9863A,SC9863A,8.0,1.6,5000.0,0.0,0,6.52,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy A22,Samsung,standard,18499.0,6.0,128.0,Helio G80,Helio,8.0,2.0,5000.0,15.0,1,6.4,720.0,1600.0,60.0,water drop,48.0,1.0,13.0,0,0,0,1,1,0,Android,11.0,1.152
+Realme GT 5G,Realme,standard,30994.0,8.0,128.0,Snapdragon 888,Snapdragon,8.0,2.84,4500.0,65.0,1,6.43,1080.0,2400.0,120.0,punch hole,64.0,3.0,16.0,1,1,0,1,0,0,Android,11.0,2.592
+Google Pixel 5A,Google,standard,32999.0,6.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4620.0,18.0,1,6.34,1080.0,2400.0,60.0,punch hole,16.0,2.0,8.0,1,1,0,1,0,0,Android,11.0,2.592
+Samsung Galaxy F12,Samsung,standard,10499.0,4.0,64.0,Exynos 850,Exynos,8.0,2.0,6000.0,15.0,1,6.5,720.0,1600.0,90.0,water drop,48.0,1.0,8.0,0,0,0,1,1,0,Android,11.0,1.152
+Samsung Galaxy F41 (6GB RAM + 128GB),Samsung,pro_plus,19999.0,6.0,128.0,Exynos 9611,Exynos,8.0,2.3,6000.0,15.0,1,6.4,1080.0,2340.0,60.0,water drop,64.0,3.0,32.0,0,0,0,1,1,0,Android,10.0,2.5272
+Samsung Galaxy A21s (6GB RAM + 128GB),Samsung,pro_plus,17499.0,6.0,128.0,Exynos 850,Exynos,8.0,2.0,5000.0,0.0,0,6.5,720.0,1600.0,60.0,punch hole,48.0,1.0,13.0,0,0,0,1,1,0,Android,10.0,1.152
+Xiaomi Redmi 9A (6GB RAM + 128GB),Xiaomi,pro_plus,10990.0,6.0,128.0,Helio G25,Helio,8.0,2.0,5000.0,0.0,0,6.53,720.0,1600.0,60.0,water drop,13.0,1.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Vivo V20 SE,Vivo,standard,19000.0,8.0,128.0,Snapdragon 665,Snapdragon,8.0,2.0,4100.0,33.0,1,6.44,1080.0,2400.0,60.0,water drop,48.0,3.0,32.0,0,0,0,1,1,0,Android,10.0,2.592
+OPPO A53 2020 (6GB RAM + 128GB),Oppo,pro_plus,13990.0,6.0,128.0,Snapdragon 460,Snapdragon,8.0,1.8,5000.0,18.0,1,6.5,1600.0,720.0,90.0,punch hole,13.0,3.0,16.0,0,0,0,1,1,0,Android,10.0,1.152
+Realme Narzo 20,Realme,standard,10499.0,4.0,64.0,Helio G85,Helio,8.0,2.0,6000.0,18.0,1,6.5,720.0,1600.0,60.0,water drop,48.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.152
+itel Vision 1 (3GB RAM + 32GB),Itel,pro_plus,5890.0,3.0,32.0,Unisoc A55,Unisoc,8.0,1.6,4000.0,0.0,0,6.09,1520.0,720.0,60.0,water drop,8.0,2.0,5.0,0,0,0,1,1,0,Android,9.0,1.0944
+Realme C11,Realme,standard,6490.0,2.0,32.0,Helio G35,Helio,8.0,2.3,5000.0,0.0,0,6.5,720.0,1600.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,10.0,1.152
+Xiaomi Mi 10 5G (8GB RAM + 256GB),Xiaomi,pro_plus,54999.0,8.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,4780.0,30.0,1,6.67,1080.0,2340.0,90.0,punch hole,108.0,1.0,20.0,1,1,1,1,0,0,Android,10.0,2.5272
+Vivo Y21 (2020),Vivo,standard,9990.0,4.0,64.0,Snapdragon 450,Snapdragon,8.0,1.8,5000.0,0.0,0,6.5,720.0,1544.0,60.0,water drop,13.0,2.0,13.0,0,0,0,1,1,0,Android,10.0,1.11168
+OnePlus Z,OnePlus,standard,24999.0,8.0,128.0,Snapdragon 765G,Snapdragon,8.0,2.4,4300.0,30.0,1,6.55,1080.0,2400.0,90.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,10.0,2.592
+Sharp Aquos R5G,Sharp,standard,59990.0,12.0,256.0,Snapdragon 865,Snapdragon,8.0,2.84,3730.0,,1,6.5,1440.0,3168.0,60.0,water drop,48.0,3.0,16.0,0,1,0,1,1,0,Android,10.0,4.56192
+Samsung Galaxy A11,Samsung,standard,9990.0,2.0,32.0,Octa Core,Octa,8.0,1.8,4000.0,15.0,1,6.4,720.0,1560.0,60.0,punch hole,13.0,3.0,8.0,0,0,0,1,1,0,Android,10.0,1.1232
+Realme C2,Realme,standard,6999.0,2.0,16.0,Helio P22,Helio,8.0,2.0,4000.0,0.0,0,6.1,1560.0,720.0,60.0,water drop,13.0,2.0,5.0,0,0,0,1,1,0,Android,9.0,1.1232
+Huawei Mate X,Huawei,standard,169000.0,8.0,512.0,Kirin 990,Kirin,8.0,2.86,4500.0,55.0,1,8.0,2200.0,2480.0,60.0,none,48.0,1.0,,1,1,1,1,1,1,Other,,5.456
+Samsung Galaxy A9 Pro (2019),Samsung,pro_plus,39990.0,6.0,128.0,Snapdragon 710,Snapdragon,8.0,2.2,3400.0,,1,6.4,1080.0,2340.0,60.0,punch hole,24.0,3.0,24.0,0,1,0,1,1,0,Android,9.0,2.5272
+Samsung Galaxy A7 (2018),Samsung,standard,21490.0,4.0,64.0,Exynos 7885,Exynos,8.0,2.2,3300.0,0.0,0,6.0,2220.0,1080.0,60.0,none,24.0,3.0,24.0,0,0,0,1,1,0,Android,8.0,2.3976
+Vivo Y55S,Vivo,standard,13490.0,3.0,16.0,Snapdragon 425,Snapdragon,4.0,1.2,2730.0,0.0,0,5.2,720.0,1280.0,60.0,none,13.0,1.0,5.0,0,0,0,1,1,0,Android,6.0,0.9216
+Poco C55,Poco,standard,7999.0,4.0,64.0,Helio G85,Helio,8.0,2.0,5000.0,0.0,0,6.71,720.0,1650.0,60.0,water drop,50.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.188
+Blackview BV5200 Pro,Blackview,pro_plus,8990.0,4.0,64.0,Helio G35,Helio,8.0,2.3,5180.0,10.0,1,6.1,720.0,1560.0,60.0,punch hole,13.0,1.0,8.0,1,1,0,1,1,0,Android,12.0,1.1232
+Honor X7a,Honor,standard,13999.0,6.0,128.0,Helio G37,Helio,8.0,2.3,5000.0,22.5,1,6.75,720.0,1600.0,90.0,water drop,50.0,1.0,8.0,0,0,0,1,1,0,Android,12.0,1.152
+OPPO A58x,Oppo,standard,13990.0,6.0,128.0,Dimensity 700 5G,Dimensity,8.0,2.2,5000.0,10.0,1,6.56,720.0,1612.0,90.0,water drop,13.0,2.0,8.0,1,0,0,1,1,0,Android,12.0,1.16064
+Doogee S99,Doogee,standard,14999.0,8.0,128.0,Helio G96,Helio,8.0,2.05,6000.0,33.0,1,6.3,1080.0,2340.0,60.0,water drop,108.0,3.0,32.0,0,1,0,1,1,0,Android,12.0,2.5272
+Lava X3,Lava,standard,6999.0,3.0,32.0,Helio A22,Helio,4.0,2.0,4000.0,0.0,0,6.5,1600.0,720.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,12.0,1.152
+Motorola Edge 40 Fusion,Motorola,standard,42990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,4500.0,68.0,1,6.67,1080.0,2400.0,144.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+iKall Z18,Ikall,standard,6799.0,4.0,64.0,Quad Core,Quad,4.0,1.3,5000.0,0.0,0,6.82,720.0,1560.0,60.0,punch hole,20.0,1.0,13.0,0,0,0,1,1,0,Android,10.0,1.1232
+Oukitel WP9,Oukitel,standard,25899.0,6.0,128.0,Helio P60,Helio,8.0,2.0,8000.0,0.0,0,5.86,720.0,1520.0,60.0,notch,16.0,3.0,8.0,0,1,0,0,1,0,Android,10.0,1.0944
+Xiaomi 14,Xiaomi,standard,54999.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,5000.0,67.0,1,6.43,1440.0,3200.0,120.0,punch hole,50.0,3.0,32.0,1,1,1,1,0,0,Android,13.0,4.608
+Motorola ThinkPhone,Motorola,standard,49990.0,8.0,128.0,Snapdragon 8+ Gen1,Snapdragon,8.0,3.2,5000.0,68.0,1,6.6,1080.0,2400.0,144.0,none,50.0,3.0,32.0,1,1,0,1,0,0,Android,13.0,2.592
+Xiaomi Civi 3,Xiaomi,standard,32990.0,8.0,256.0,Dimensity 8200,Dimensity,8.0,3.1,5000.0,80.0,1,6.7,1080.0,2400.0,120.0,punch hole,64.0,3.0,32.0,1,1,1,1,0,0,Android,13.0,2.592
+Realme Narzo 50i Prime (4GB RAM + 64GB),Realme,pro_plus,8720.0,4.0,64.0,Tiger T612,Tiger,8.0,1.82,5000.0,10.0,1,6.5,720.0,1600.0,60.0,water drop,8.0,1.0,5.0,0,0,0,1,1,0,Android,11.0,1.152
+Oppo Find X6,Oppo,standard,69990.0,8.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4700.0,120.0,1,6.73,1080.0,2400.0,120.0,punch hole,50.0,3.0,32.0,1,1,0,1,0,0,Android,12.0,2.592
+itel A23s,Itel,standard,4787.0,2.0,32.0,Spreadtrum SC9832E,Spreadtrum,4.0,1.4,3020.0,0.0,0,5.0,854.0,480.0,60.0,none,2.0,1.0,,0,0,0,0,0,0,Android,11.0,0.40992
+Google Pixel 8 Pro,Google,pro_plus,70990.0,12.0,256.0,Google Tensor 3,Google,8.0,,5000.0,67.0,1,6.73,1440.0,3120.0,120.0,punch hole,50.0,3.0,12.0,1,1,0,1,0,0,Android,13.0,4.4928
+Vivo X Fold 2,Vivo,standard,119990.0,12.0,256.0,Snapdragon 8 Gen2,Snapdragon,8.0,3.2,4800.0,66.0,1,8.03,1916.0,2160.0,120.0,none,50.0,3.0,32.0,1,1,0,1,0,1,Android,12.0,4.13856
+Motorola Moto Edge S30 Pro,Motorola,pro_plus,34990.0,8.0,128.0,Snapdragon 8 Gen1,Snapdragon,8.0,3.0,5000.0,68.2,1,6.67,1080.0,2460.0,120.0,punch hole,64.0,3.0,16.0,1,0,0,1,0,0,Android,12.0,2.6568
+Honor X8 5G,Honor,standard,14990.0,6.0,128.0,Snapdragon 480+,Snapdragon,8.0,2.2,5000.0,22.5,1,6.5,720.0,1600.0,60.0,water drop,48.0,2.0,8.0,1,0,0,1,1,0,Android,11.0,1.152
+POCO X4 GT 5G (8GB RAM + 256GB),Poco,pro_plus,28990.0,8.0,256.0,Dimensity 8100,Dimensity,8.0,2.85,5080.0,67.0,1,6.6,1080.0,2460.0,144.0,punch hole,64.0,3.0,16.0,1,1,1,1,0,0,Android,12.0,2.6568
+Motorola Moto G91 5G,Motorola,standard,19990.0,6.0,128.0,Snapdragon 695,Snapdragon,8.0,2.2,5000.0,,1,6.8,1080.0,2400.0,60.0,punch hole,108.0,3.0,32.0,1,1,0,1,1,0,Android,12.0,2.592
+Samsung Galaxy M52s 5G,Samsung,standard,24990.0,8.0,128.0,Octa Core Processor,Octa,8.0,,5000.0,,1,6.5,1080.0,2400.0,60.0,water drop,64.0,3.0,32.0,1,0,0,1,1,0,Android,12.0,2.592
